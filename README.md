@@ -42,9 +42,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated today. Reusable skill packs for Codex and Claude Code workflows.
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated today. CLI for analyzing strace traces with focused syscall insights.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated today. Reusable skill packs for Codex and Claude Code workflows.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 3d ago. CLI for restoring and working with local OpenCode project data.
@@ -59,21 +59,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                319 commits         ████████████░░░░░░░░░░░░░   47.05 % 
-🌆 Daytime                149 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-🌃 Evening                199 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+🌞 Morning                341 commits         ████████████░░░░░░░░░░░░░   46.84 % 
+🌆 Daytime                163 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+🌃 Evening                208 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Tuesday                  160 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Wednesday                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Thursday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Saturday                 32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Sunday                   166 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  170 commits         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Wednesday                118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Thursday                 61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Friday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Sunday                   178 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
 ```
 
 
@@ -85,5 +85,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/04/2026 06:02:41 UTC
+ Last Updated on 20/04/2026 12:21:55 UTC
 <!--END_SECTION:waka-->
