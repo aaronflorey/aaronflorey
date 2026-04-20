@@ -1,0 +1,13 @@
+{
+  "name": "github-profile",
+  "private": true,
+  "scripts": {
+    "generate": "bun run scripts/generate-readme.ts",
+    "check": "bun run scripts/generate-readme.ts --check",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "^5.9.3"
+  }
+}
