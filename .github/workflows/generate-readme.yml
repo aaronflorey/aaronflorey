@@ -15,6 +15,8 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
     steps:
       - name: Checkout repository
@@ -32,13 +34,13 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
 
       - name: Update WakaTime stats output
-        if: ${{ secrets.WAKATIME_API_KEY != '' }}
+        if: ${{ env.WAKATIME_API_KEY != '' }}
         id: waka
         uses: anmol098/waka-readme-stats@master
         env:
           DEBUG_RUN: True
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
           SECTION_NAME: waka
           BADGE_STYLE: flat-square
@@ -61,7 +63,7 @@ jobs:
           WAKA_SECTION_CONTENT: ${{ steps.waka.outputs.README_CONTENT }}
 
       - name: Show missing WakaTime secret
-        if: ${{ secrets.WAKATIME_API_KEY == '' }}
+        if: ${{ env.WAKATIME_API_KEY == '' }}
         run: echo "Set WAKATIME_API_KEY to enable the WakaTime section."
 
       - name: Commit generated README
