@@ -42,10 +42,10 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated today. Reusable skill packs for Codex and Claude Code workflows.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated today. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated today. CLI for analyzing strace traces with focused syscall insights.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated today. Reusable skill packs for Codex and Claude Code workflows.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 3d ago. CLI for restoring and working with local OpenCode project data.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 4d ago. Run docker compose across directory trees
@@ -54,5 +54,40 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-Last Updated on 20/04/2026 18:19:01 UTC
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%207%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                346 commits         ████████████░░░░░░░░░░░░░   46.44 % 
+🌆 Daytime                165 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌃 Evening                216 commits         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Tuesday                  177 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Wednesday                118 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Sunday                   190 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    4 hrs 42 mins       ███████████████████████░░   91.81 % 
+PHP                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Vue                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+D                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+
+
+ Last Updated on 21/04/2026 00:19:20 UTC
 <!--END_SECTION:waka-->
