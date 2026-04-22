@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-39-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-36-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-31-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -46,7 +46,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated today. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated yesterday. CLI for analyzing strace traces with focused syscall insights.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated yesterday. Reusable skill packs for Codex and Claude Code workflows.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated 2d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 4d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 5d ago. CLI for restoring and working with local OpenCode project data.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 6d ago. Recently updated Lua project.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%206%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                384 commits         ██████████░░░░░░░░░░░░░░░   39.96 % 
-🌆 Daytime                258 commits         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-🌃 Evening                286 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+🌞 Morning                342 commits         ███████████░░░░░░░░░░░░░░   45.18 % 
+🌆 Daytime                199 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+🌃 Evening                203 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Tuesday                  236 commits         ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Wednesday                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Thursday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Friday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Sunday                   280 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Monday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Tuesday                  176 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Wednesday                150 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Thursday                 63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Friday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Saturday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Sunday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 ```
 
 
@@ -89,5 +89,5 @@ PHP                      27 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/04/2026 06:35:34 UTC
+ Last Updated on 22/04/2026 12:19:04 UTC
 <!--END_SECTION:waka-->
