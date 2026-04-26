@@ -42,10 +42,10 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3d ago. Run docker compose across directory trees
-- 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 4d ago. CLI for analyzing strace traces with focused syscall insights.
+- 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 5d ago. CLI for analyzing strace traces with focused syscall insights.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated 5d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 1w ago. CLI for restoring and working with local OpenCode project data.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Go                       49 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/04/2026 18:12:58 UTC
+ Last Updated on 26/04/2026 00:17:52 UTC
 <!--END_SECTION:waka-->
