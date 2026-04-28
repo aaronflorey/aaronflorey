@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated today. Reusable skill packs for Codex and Claude Code workflows.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 5d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 5d ago. Run docker compose across directory trees
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 6d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 6d ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 1w ago. CLI for analyzing strace traces with focused syscall insights.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · JavaScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 1w ago. CLI for restoring and working with local OpenCode project data.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                317 commits         ████████████░░░░░░░░░░░░░   47.24 % 
-🌆 Daytime                241 commits         █████████░░░░░░░░░░░░░░░░   35.92 % 
-🌃 Evening                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+🌞 Morning                319 commits         ████████████░░░░░░░░░░░░░   47.12 % 
+🌆 Daytime                245 commits         █████████░░░░░░░░░░░░░░░░   36.19 % 
+🌃 Evening                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Tuesday                  148 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Wednesday                174 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Friday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Saturday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Sunday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Monday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Tuesday                  150 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Wednesday                174 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Thursday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Friday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Sunday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 
 
@@ -89,5 +89,5 @@ Go                       50 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/04/2026 00:22:52 UTC
+ Last Updated on 28/04/2026 06:52:33 UTC
 <!--END_SECTION:waka-->
