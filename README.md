@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-38-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-32-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-33-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2012%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Go                       33 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/05/2026 18:21:58 UTC
+ Last Updated on 02/05/2026 00:22:20 UTC
 <!--END_SECTION:waka-->
