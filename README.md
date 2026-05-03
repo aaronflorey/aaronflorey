@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-39-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-40-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-33-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -42,8 +42,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2d ago. PHP package that parses serialized strings into structured typed objects.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4d ago. Reusable skill packs for Codex and Claude Code workflows.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 3d ago. PHP package that parses serialized strings into structured typed objects.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 5d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2026%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Bash                     37 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/05/2026 00:21:10 UTC
+ Last Updated on 03/05/2026 06:50:08 UTC
 <!--END_SECTION:waka-->
