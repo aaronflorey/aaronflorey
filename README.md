@@ -42,10 +42,10 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2d ago. Homebrew tap for publishing and installing my CLI tools.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1w ago. PHP package that parses serialized strings into structured typed objects.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated today. Reusable skill packs for Codex and Claude Code workflows.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated today. PHP package that parses serialized strings into structured typed objects.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2w ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 2w ago. CLI for analyzing strace traces with focused syscall insights.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                434 commits         ███████████░░░░░░░░░░░░░░   42.67 % 
-🌆 Daytime                376 commits         █████████░░░░░░░░░░░░░░░░   36.97 % 
-🌃 Evening                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+🌞 Morning                443 commits         ███████████░░░░░░░░░░░░░░   42.76 % 
+🌆 Daytime                376 commits         █████████░░░░░░░░░░░░░░░░   36.29 % 
+🌃 Evening                170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌙 Night                  47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Tuesday                  222 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Wednesday                200 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Thursday                 223 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Friday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Sunday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Tuesday                  226 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Wednesday                208 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Thursday                 227 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Sunday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 ```
 
 
@@ -89,5 +89,5 @@ YAML                     33 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 07/05/2026 18:33:37 UTC
+ Last Updated on 08/05/2026 00:23:26 UTC
 <!--END_SECTION:waka-->
