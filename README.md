@@ -49,12 +49,12 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2w ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 2w ago. CLI for analyzing strace traces with focused syscall insights.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 2w ago. CLI for restoring and working with local OpenCode project data.
+- 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 3w ago. CLI for restoring and working with local OpenCode project data.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ YAML                     33 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/05/2026 00:23:26 UTC
+ Last Updated on 08/05/2026 06:34:42 UTC
 <!--END_SECTION:waka-->
