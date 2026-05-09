@@ -48,13 +48,13 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2w ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 2w ago. CLI for analyzing strace traces with focused syscall insights.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [opencode-helper](https://github.com/aaronflorey/opencode-helper) · Go · updated 3w ago. CLI for restoring and working with local OpenCode project data.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Jinja2                   40 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/05/2026 00:25:37 UTC
+ Last Updated on 09/05/2026 06:42:07 UTC
 <!--END_SECTION:waka-->
