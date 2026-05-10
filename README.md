@@ -42,10 +42,10 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated yesterday. Reusable skill packs for Codex and Claude Code workflows.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated yesterday. PHP package that parses serialized strings into structured typed objects.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2d ago. Reusable skill packs for Codex and Claude Code workflows.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2d ago. PHP package that parses serialized strings into structured typed objects.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 5d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2w ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 2w ago. CLI for analyzing strace traces with focused syscall insights.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                460 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
-🌆 Daytime                395 commits         █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌃 Evening                202 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+🌞 Morning                462 commits         ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌆 Daytime                398 commits         █████████░░░░░░░░░░░░░░░░   35.41 % 
+🌃 Evening                206 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Tuesday                  252 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Wednesday                207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Thursday                 224 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Sunday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Monday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Tuesday                  255 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Wednesday                207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Thursday                 224 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Friday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Sunday                   204 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 ```
 
 
@@ -89,5 +89,5 @@ Jinja2                   40 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/05/2026 18:18:38 UTC
+ Last Updated on 10/05/2026 00:24:03 UTC
 <!--END_SECTION:waka-->
