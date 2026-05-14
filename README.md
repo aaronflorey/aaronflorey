@@ -43,8 +43,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3d ago. Recently updated Lua project.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 6d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 6d ago. PHP package that parses serialized strings into structured typed objects.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
@@ -54,8 +54,40 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2034%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                458 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌆 Daytime                420 commits         █████████░░░░░░░░░░░░░░░░   35.47 % 
+🌃 Evening                223 commits         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+🌙 Night                  83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Tuesday                  271 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Wednesday                219 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Thursday                 218 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Sunday                   244 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+```
 
 
- Last Updated on 14/05/2026 00:28:28 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    27 hrs 33 mins      ██████████████░░░░░░░░░░░   55.38 % 
+PHP                      14 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Markdown                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+```
+
+
+ Last Updated on 14/05/2026 06:59:01 UTC
 <!--END_SECTION:waka-->
