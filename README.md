@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2d ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3d ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 5d ago. Reusable skill packs for Codex and Claude Code workflows.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 5d ago. PHP package that parses serialized strings into structured typed objects.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 6d ago. Reusable skill packs for Codex and Claude Code workflows.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 6d ago. PHP package that parses serialized strings into structured typed objects.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 3w ago. CLI for analyzing strace traces with focused syscall insights.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
@@ -54,40 +54,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2011%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                450 commits         ██████████░░░░░░░░░░░░░░░   38.96 % 
-🌆 Daytime                415 commits         █████████░░░░░░░░░░░░░░░░   35.93 % 
-🌃 Evening                223 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-🌙 Night                  67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Tuesday                  255 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Wednesday                209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Thursday                 215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Sunday                   244 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2049%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    31 hrs 11 mins      ███████████████░░░░░░░░░░   60.79 % 
-PHP                      12 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Markdown                 2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-YAML                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSON                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-```
-
-
- Last Updated on 13/05/2026 18:37:13 UTC
+ Last Updated on 14/05/2026 00:28:28 UTC
 <!--END_SECTION:waka-->
