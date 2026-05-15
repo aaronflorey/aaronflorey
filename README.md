@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3d ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 4d ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 6d ago. Reusable skill packs for Codex and Claude Code workflows.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 6d ago. PHP package that parses serialized strings into structured typed objects.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1w ago. PHP package that parses serialized strings into structured typed objects.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 3w ago. CLI for analyzing strace traces with focused syscall insights.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2052%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                460 commits         ██████████░░░░░░░░░░░░░░░   39.35 % 
-🌆 Daytime                398 commits         █████████░░░░░░░░░░░░░░░░   34.05 % 
-🌃 Evening                227 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-🌙 Night                  84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+🌞 Morning                464 commits         ██████████░░░░░░░░░░░░░░░   39.02 % 
+🌆 Daytime                404 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌃 Evening                235 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+🌙 Night                  86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Tuesday                  274 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Thursday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Sunday                   250 commits         █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Tuesday                  280 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Wednesday                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Thursday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Sunday                   262 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   250 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 33 mins      ██████████████░░░░░░░░░░░   55.38 % 
-PHP                      14 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Markdown                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-JSON                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Other                    22 hrs 13 mins      █████████████░░░░░░░░░░░░   51.35 % 
+PHP                      11 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Markdown                 3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+YAML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 
- Last Updated on 14/05/2026 18:37:13 UTC
+ Last Updated on 15/05/2026 00:25:49 UTC
 <!--END_SECTION:waka-->
