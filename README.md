@@ -43,13 +43,13 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 5d ago. Recently updated Lua project.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 5d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 6d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1w ago. PHP package that parses serialized strings into structured typed objects.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
 - 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 3w ago. CLI for analyzing strace traces with focused syscall insights.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 4w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 
 ## Weekly coding stats
 
@@ -59,21 +59,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                462 commits         ██████████░░░░░░░░░░░░░░░   38.34 % 
-🌆 Daytime                423 commits         █████████░░░░░░░░░░░░░░░░   35.10 % 
-🌃 Evening                247 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌙 Night                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+🌞 Morning                454 commits         ██████████░░░░░░░░░░░░░░░   38.97 % 
+🌆 Daytime                411 commits         █████████░░░░░░░░░░░░░░░░   35.28 % 
+🌃 Evening                231 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Tuesday                  273 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-Wednesday                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Thursday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Sunday                   280 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Monday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Tuesday                  261 commits         ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Wednesday                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Thursday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   280 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    17 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
-PHP                      9 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Markdown                 3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-TypeScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-YAML                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other                    17 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   40.21 % 
+PHP                      9 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+TypeScript               5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Markdown                 3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+YAML                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 ```
 
 
- Last Updated on 16/05/2026 00:23:52 UTC
+ Last Updated on 16/05/2026 06:46:43 UTC
 <!--END_SECTION:waka-->
