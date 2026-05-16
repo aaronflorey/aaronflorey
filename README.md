@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 4d ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 5d ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 5d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
@@ -54,6 +54,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2049%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -79,13 +81,13 @@ Sunday                   280 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 13 mins      █████████████░░░░░░░░░░░░   51.35 % 
-PHP                      11 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-Markdown                 3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-YAML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    17 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
+PHP                      9 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Markdown                 3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+TypeScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+YAML                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 ```
 
 
- Last Updated on 15/05/2026 18:32:39 UTC
+ Last Updated on 16/05/2026 00:23:52 UTC
 <!--END_SECTION:waka-->
