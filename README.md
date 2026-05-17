@@ -54,40 +54,5 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2035%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                456 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
-🌆 Daytime                419 commits         █████████░░░░░░░░░░░░░░░░   35.51 % 
-🌃 Evening                235 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-🌙 Night                  70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Tuesday                  264 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Wednesday                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Thursday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Sunday                   262 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    14 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   38.29 % 
-PHP                      7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-TypeScript               5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Markdown                 3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-YAML                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-```
-
-
- Last Updated on 17/05/2026 12:18:49 UTC
+Last Updated on 17/05/2026 18:20:56 UTC
 <!--END_SECTION:waka-->
