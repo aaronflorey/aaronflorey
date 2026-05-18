@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 6d ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
@@ -54,5 +54,40 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-Last Updated on 17/05/2026 18:20:56 UTC
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2010%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                452 commits         ██████████░░░░░░░░░░░░░░░   39.13 % 
+🌆 Daytime                408 commits         █████████░░░░░░░░░░░░░░░░   35.32 % 
+🌃 Evening                227 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Tuesday                  258 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Wednesday                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Thursday                 209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Sunday                   250 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    10 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.21 % 
+PHP                      6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+TypeScript               5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+YAML                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+```
+
+
+ Last Updated on 18/05/2026 00:26:40 UTC
 <!--END_SECTION:waka-->
