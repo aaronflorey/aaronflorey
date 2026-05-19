@@ -48,46 +48,14 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1w ago. PHP package that parses serialized strings into structured typed objects.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
-- 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 3w ago. CLI for analyzing strace traces with focused syscall insights.
+- 🛠️ [strace-analyser](https://github.com/aaronflorey/strace-analyser) · Go · updated 4w ago. CLI for analyzing strace traces with focused syscall insights.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2035%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                450 commits         ██████████░░░░░░░░░░░░░░░   39.51 % 
-🌆 Daytime                394 commits         █████████░░░░░░░░░░░░░░░░   34.59 % 
-🌃 Evening                225 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-🌙 Night                  70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Tuesday                  254 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Wednesday                206 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Thursday                 191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Friday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Saturday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Sunday                   253 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2052%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    10 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.21 % 
-PHP                      6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-TypeScript               5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-YAML                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-```
-
-
- Last Updated on 18/05/2026 18:36:00 UTC
+ Last Updated on 19/05/2026 00:30:19 UTC
 <!--END_SECTION:waka-->
