@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated today. Recently updated Go project.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated today. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated today. Run docker compose across directory trees
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
+- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated yesterday. Recently updated Go project.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated yesterday. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1w ago. PHP package that parses serialized strings into structured typed objects.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2026%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                561 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌆 Daytime                457 commits         ████████░░░░░░░░░░░░░░░░░   33.55 % 
-🌃 Evening                278 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+🌞 Morning                600 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
+🌆 Daytime                487 commits         ████████░░░░░░░░░░░░░░░░░   33.61 % 
+🌃 Evening                282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Tuesday                  326 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Wednesday                315 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Thursday                 224 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Friday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Sunday                   249 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Tuesday                  352 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Wednesday                334 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Thursday                 249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Saturday                 36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Sunday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 ```
 
 
@@ -89,5 +89,5 @@ Markdown                 2 hrs               ██░░░░░░░░░�
 ```
 
 
- Last Updated on 21/05/2026 00:29:56 UTC
+ Last Updated on 21/05/2026 07:15:39 UTC
 <!--END_SECTION:waka-->
