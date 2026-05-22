@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated yesterday. Recently updated Go project.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated yesterday. Run docker compose across directory trees
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
+- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 2d ago. Recently updated Go project.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2d ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2w ago. PHP package that parses serialized strings into structured typed objects.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Other                    1 hr 17 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/05/2026 00:28:21 UTC
+ Last Updated on 22/05/2026 07:10:43 UTC
 <!--END_SECTION:waka-->
