@@ -48,13 +48,13 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated yesterday. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1w ago. PHP package that parses serialized strings into structured typed objects.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2w ago. Reusable skill packs for Codex and Claude Code workflows.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2w ago. PHP package that parses serialized strings into structured typed objects.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -81,13 +81,13 @@ Sunday                   259 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   36.63 % 
-PHP                      6 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-YAML                     2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Markdown                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-.env file                1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               8 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
+PHP                      6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+YAML                     4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+.env file                1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 
- Last Updated on 21/05/2026 18:39:12 UTC
+ Last Updated on 22/05/2026 00:28:21 UTC
 <!--END_SECTION:waka-->
