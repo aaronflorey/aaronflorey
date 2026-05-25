@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -81,13 +81,13 @@ Sunday                   263 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      8 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.21 % 
-TypeScript               5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-YAML                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-.env file                1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Markdown                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+PHP                      8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.40 % 
+TypeScript               2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+YAML                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+.env file                1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 
 
- Last Updated on 25/05/2026 13:06:34 UTC
+ Last Updated on 25/05/2026 18:32:41 UTC
 <!--END_SECTION:waka-->
