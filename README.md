@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-42-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-33-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-34-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -43,11 +43,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated today. Reusable skill packs for Codex and Claude Code workflows.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 5d ago. Recently updated Go project.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 5d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 5d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 5d ago. Run docker compose across directory trees
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 6d ago. Recently updated Go project.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 6d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 6d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 6d ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2w ago. PHP package that parses serialized strings into structured typed objects.
 
@@ -59,21 +59,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                613 commits         ██████████░░░░░░░░░░░░░░░   40.60 % 
-🌆 Daytime                512 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
-🌃 Evening                294 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-🌙 Night                  91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+🌞 Morning                627 commits         ██████████░░░░░░░░░░░░░░░   39.76 % 
+🌆 Daytime                531 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
+🌃 Evening                318 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+🌙 Night                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Tuesday                  369 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Wednesday                337 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Thursday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Sunday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Monday                   154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Tuesday                  391 commits         ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Wednesday                339 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Thursday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Friday                   87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Sunday                   301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
 ```
 
 
@@ -89,5 +89,5 @@ Other                    1 hr 15 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 26/05/2026 00:27:46 UTC
+ Last Updated on 26/05/2026 07:10:26 UTC
 <!--END_SECTION:waka-->
