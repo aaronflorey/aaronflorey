@@ -44,36 +44,36 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated today. Recently updated Go project.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated yesterday. Reusable skill packs for Codex and Claude Code workflows.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 6d ago. Recently updated Go project.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 6d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 6d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 6d ago. Run docker compose across directory trees
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1w ago. Recently updated Go project.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                695 commits         ██████████░░░░░░░░░░░░░░░   40.88 % 
-🌆 Daytime                552 commits         ████████░░░░░░░░░░░░░░░░░   32.47 % 
-🌃 Evening                340 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+🌞 Morning                695 commits         ██████████░░░░░░░░░░░░░░░   40.76 % 
+🌆 Daytime                557 commits         ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌃 Evening                340 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+🌙 Night                  113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Tuesday                  415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Wednesday                389 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Thursday                 261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Friday                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Sunday                   319 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Monday                   158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Tuesday                  415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Wednesday                391 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Thursday                 264 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Friday                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Sunday                   319 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
 ```
 
 
@@ -89,5 +89,5 @@ Markdown                 38 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 27/05/2026 00:30:11 UTC
+ Last Updated on 27/05/2026 07:23:50 UTC
 <!--END_SECTION:waka-->
