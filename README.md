@@ -42,9 +42,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated today. Recently updated Go project.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1w ago. Recently updated Go project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
@@ -54,40 +54,5 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%201%20min-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                753 commits         ██████████░░░░░░░░░░░░░░░   41.63 % 
-🌆 Daytime                583 commits         ████████░░░░░░░░░░░░░░░░░   32.23 % 
-🌃 Evening                339 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Tuesday                  451 commits         ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Wednesday                409 commits         ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Thursday                 296 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Friday                   98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Sunday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-PHP                      5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
-YAML                     2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Vue                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-```
-
-
- Last Updated on 28/05/2026 07:18:33 UTC
+Last Updated on 28/05/2026 18:52:33 UTC
 <!--END_SECTION:waka-->
