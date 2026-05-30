@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated today. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated today. Recently updated Go project.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 3d ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated yesterday. Recently updated Go project.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1w ago. Recently updated Go project.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2015%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                636 commits         ██████████░░░░░░░░░░░░░░░   39.58 % 
-🌆 Daytime                509 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌃 Evening                334 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-🌙 Night                  128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+🌞 Morning                638 commits         ██████████░░░░░░░░░░░░░░░   39.46 % 
+🌆 Daytime                512 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌃 Evening                338 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+🌙 Night                  129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Tuesday                  411 commits         ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Wednesday                352 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Thursday                 227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Friday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Sunday                   324 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Monday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Tuesday                  414 commits         ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Wednesday                352 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Thursday                 227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Sunday                   330 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   324 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Jinja2                   2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Terraform                1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-YAML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+PHP                      3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Markdown                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Vue                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Terraform                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Jinja2                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 ```
 
 
- Last Updated on 29/05/2026 18:52:18 UTC
+ Last Updated on 30/05/2026 00:29:47 UTC
 <!--END_SECTION:waka-->
