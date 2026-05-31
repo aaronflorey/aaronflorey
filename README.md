@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated yesterday. Recently updated Go project.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4d ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2d ago. Recently updated Go project.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 5d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1w ago. Recently updated Go project.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
@@ -59,21 +59,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                639 commits         ██████████░░░░░░░░░░░░░░░   39.20 % 
-🌆 Daytime                522 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
-🌃 Evening                338 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-🌙 Night                  131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+🌞 Morning                640 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
+🌆 Daytime                522 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌃 Evening                338 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+🌙 Night                  133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  416 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-Wednesday                357 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Thursday                 233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Friday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Monday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Tuesday                  418 commits         ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Wednesday                358 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Thursday                 233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Friday                   99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Sunday                   330 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Sunday                   330 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   330 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Markdown                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Vue                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Terraform                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Jinja2                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+PHP                      3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Markdown                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Vue                      2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Terraform                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Jinja2                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 
 
- Last Updated on 30/05/2026 18:23:26 UTC
+ Last Updated on 31/05/2026 00:29:41 UTC
 <!--END_SECTION:waka-->
