@@ -42,19 +42,19 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2d ago. Recently updated Go project.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 5d ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 3d ago. Recently updated Go project.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 6d ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1w ago. Recently updated Go project.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3w ago. Recently updated Lua project.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Jinja2                   2 hrs 3 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 31/05/2026 18:23:39 UTC
+ Last Updated on 01/06/2026 00:30:52 UTC
 <!--END_SECTION:waka-->
