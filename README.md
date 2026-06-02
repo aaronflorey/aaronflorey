@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2054%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Jinja2                   2 hrs 3 mins        ███░░░░░░░░�
 ```
 
 
- Last Updated on 02/06/2026 13:13:24 UTC
+ Last Updated on 02/06/2026 19:13:50 UTC
 <!--END_SECTION:waka-->
