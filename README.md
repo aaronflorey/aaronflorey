@@ -42,38 +42,38 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 3d ago. Recently updated Go project.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 6d ago. Reusable skill packs for Codex and Claude Code workflows.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated today. Recently updated Lua project.
+- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated today. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 4d ago. Recently updated Go project.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 4d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1w ago. Recently updated Go project.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3w ago. Recently updated Lua project.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%201%20min-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                647 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
-🌆 Daytime                522 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌃 Evening                348 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-🌙 Night                  134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌞 Morning                657 commits         ██████████░░░░░░░░░░░░░░░   39.32 % 
+🌆 Daytime                525 commits         ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌃 Evening                352 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌙 Night                  137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Tuesday                  429 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Wednesday                357 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Thursday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Sunday                   344 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Monday                   144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Tuesday                  440 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Wednesday                359 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Thursday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Sunday                   350 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   344 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Markdown                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Vue                      2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Terraform                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Jinja2                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Vue                      3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Terraform                2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Jinja2                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 ```
 
 
- Last Updated on 01/06/2026 19:40:15 UTC
+ Last Updated on 02/06/2026 00:35:16 UTC
 <!--END_SECTION:waka-->
