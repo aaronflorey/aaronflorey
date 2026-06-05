@@ -43,51 +43,19 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated yesterday. Recently updated Lua project.
-- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 2d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 6d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 6d ago. Recently updated Go project.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 6d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 3d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1w ago. Recently updated Go project.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 2w ago. Recently updated Go project.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2051%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                680 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌆 Daytime                545 commits         ████████░░░░░░░░░░░░░░░░░   30.90 % 
-🌃 Evening                376 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-🌙 Night                  163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Tuesday                  479 commits         ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Wednesday                371 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Thursday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Sunday                   386 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%201%20min-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Markdown                 5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Other                    4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Vue                      4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Terraform                3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-```
-
-
- Last Updated on 04/06/2026 18:45:45 UTC
+ Last Updated on 05/06/2026 00:32:31 UTC
 <!--END_SECTION:waka-->
