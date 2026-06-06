@@ -43,7 +43,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2d ago. Recently updated Lua project.
-- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 3d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
+- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 4d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1w ago. Recently updated Go project.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2053%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -81,13 +81,13 @@ Sunday                   416 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-TypeScript               9 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Markdown                 7 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-YAML                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Vue                      4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Other                    16 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   35.51 % 
+TypeScript               9 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+YAML                     6 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Markdown                 5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Vue                      3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 ```
 
 
- Last Updated on 05/06/2026 18:39:52 UTC
+ Last Updated on 06/06/2026 00:31:22 UTC
 <!--END_SECTION:waka-->
