@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-45-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-46-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-37-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Terraform                1 hr 44 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/06/2026 18:44:40 UTC
+ Last Updated on 10/06/2026 00:33:58 UTC
 <!--END_SECTION:waka-->
