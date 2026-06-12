@@ -44,36 +44,36 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated yesterday. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 1w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1w ago. Recently updated Go project.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2w ago. Homebrew tap for publishing and installing my CLI tools.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2w ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2w ago. Reusable skill packs for Codex and Claude Code workflows.
 - 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 3w ago. Recently updated Go project.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                743 commits         █████████░░░░░░░░░░░░░░░░   36.84 % 
-🌆 Daytime                644 commits         ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌃 Evening                444 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-🌙 Night                  186 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+🌞 Morning                747 commits         █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌆 Daytime                650 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌃 Evening                452 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+🌙 Night                  188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Tuesday                  548 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-Wednesday                401 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Thursday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Sunday                   490 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Monday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Tuesday                  554 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Wednesday                401 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Thursday                 253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Sunday                   502 commits         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
 ```
 
 
@@ -89,5 +89,5 @@ PHP                      1 hr 5 mins         █░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/06/2026 19:00:57 UTC
+ Last Updated on 12/06/2026 00:36:15 UTC
 <!--END_SECTION:waka-->
