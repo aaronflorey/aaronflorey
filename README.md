@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2d ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3d ago. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 1w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2056%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Vue                      1 hr 23 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 13/06/2026 07:16:39 UTC
+ Last Updated on 13/06/2026 12:34:27 UTC
 <!--END_SECTION:waka-->
