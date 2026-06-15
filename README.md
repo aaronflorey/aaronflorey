@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-48-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-37-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-38-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                765 commits         █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌆 Daytime                653 commits         ████████░░░░░░░░░░░░░░░░░   31.21 % 
-🌃 Evening                476 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-🌙 Night                  198 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌞 Morning                763 commits         █████████░░░░░░░░░░░░░░░░   36.45 % 
+🌆 Daytime                658 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
+🌃 Evening                476 commits         ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌙 Night                  196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Tuesday                  576 commits         ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Wednesday                397 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Thursday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Tuesday                  574 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Wednesday                398 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Thursday                 250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Sunday                   538 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Sunday                   538 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
 ```
 
 
@@ -89,5 +89,5 @@ JavaScript               1 hr 33 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/06/2026 18:29:26 UTC
+ Last Updated on 15/06/2026 00:35:15 UTC
 <!--END_SECTION:waka-->
