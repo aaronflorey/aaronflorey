@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated today. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 2w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                769 commits         █████████░░░░░░░░░░░░░░░░   36.21 % 
-🌆 Daytime                668 commits         ████████░░░░░░░░░░░░░░░░░   31.45 % 
-🌃 Evening                488 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-🌙 Night                  199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+🌞 Morning                760 commits         █████████░░░░░░░░░░░░░░░░   35.95 % 
+🌆 Daytime                667 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
+🌃 Evening                488 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌙 Night                  199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Tuesday                  584 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Wednesday                398 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Thursday                 250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Sunday                   556 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Tuesday                  578 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+Wednesday                397 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Thursday                 251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Sunday                   555 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
 ```
 
 
@@ -89,5 +89,5 @@ Bash                     2 hrs 18 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/06/2026 18:50:32 UTC
+ Last Updated on 18/06/2026 00:37:16 UTC
 <!--END_SECTION:waka-->
