@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-48-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-50-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-38-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                760 commits         █████████░░░░░░░░░░░░░░░░   35.95 % 
-🌆 Daytime                667 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌃 Evening                488 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌙 Night                  199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+🌞 Morning                762 commits         █████████░░░░░░░░░░░░░░░░   35.96 % 
+🌆 Daytime                668 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+🌃 Evening                488 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌙 Night                  201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Tuesday                  578 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-Wednesday                397 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Thursday                 251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Tuesday                  581 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+Wednesday                398 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Thursday                 252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Friday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Sunday                   555 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Sunday                   555 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 ```
 
 
@@ -89,5 +89,5 @@ Bash                     2 hrs 18 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/06/2026 00:37:16 UTC
+ Last Updated on 18/06/2026 07:38:29 UTC
 <!--END_SECTION:waka-->
