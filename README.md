@@ -44,36 +44,36 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated today. Recently updated Go project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated today. PHP package that parses serialized strings into structured typed objects.
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 4d ago. Recently updated Lua project.
-- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 2w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 5d ago. Recently updated Lua project.
+- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 3w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 3w ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4w ago. Reusable skill packs for Codex and Claude Code workflows.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2054%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                661 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
-🌆 Daytime                698 commits         ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌃 Evening                487 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌞 Morning                651 commits         ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌆 Daytime                705 commits         ████████░░░░░░░░░░░░░░░░░   33.43 % 
+🌃 Evening                495 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌙 Night                  258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Tuesday                  600 commits         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Wednesday                387 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Thursday                 287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Friday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Saturday                 35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Sunday                   563 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Monday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Tuesday                  592 commits         ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Wednesday                380 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Thursday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Friday                   65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Saturday                 35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Sunday                   575 commits         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 ```
 
 
@@ -89,5 +89,5 @@ Vue                      1 hr 46 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/06/2026 19:09:23 UTC
+ Last Updated on 23/06/2026 00:33:55 UTC
 <!--END_SECTION:waka-->
