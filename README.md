@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                655 commits         ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌆 Daytime                687 commits         ████████░░░░░░░░░░░░░░░░░   32.78 % 
-🌃 Evening                491 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌙 Night                  263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+🌞 Morning                657 commits         ████████░░░░░░░░░░░░░░░░░   31.29 % 
+🌆 Daytime                687 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
+🌃 Evening                491 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+🌙 Night                  265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Tuesday                  595 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-Wednesday                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Thursday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Tuesday                  597 commits         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Thursday                 275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 Friday                   65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 Saturday                 35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Sunday                   569 commits         ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Sunday                   569 commits         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   569 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Markdown                 9 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-TypeScript               3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-JavaScript               3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Rust                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Markdown                 11 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Other                    8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+TypeScript               5 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+JavaScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Rust                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 ```
 
 
- Last Updated on 24/06/2026 12:44:47 UTC
+ Last Updated on 24/06/2026 18:38:39 UTC
 <!--END_SECTION:waka-->
