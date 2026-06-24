@@ -44,7 +44,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated yesterday. Recently updated Go project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated yesterday. PHP package that parses serialized strings into structured typed objects.
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 5d ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 6d ago. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 3w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3w ago. Go CLI that updates project dependencies when you enter a repository.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Rust                     2 hrs 16 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/06/2026 18:41:42 UTC
+ Last Updated on 24/06/2026 00:28:15 UTC
 <!--END_SECTION:waka-->
