@@ -42,38 +42,38 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2d ago. Recently updated Go project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2d ago. PHP package that parses serialized strings into structured typed objects.
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 6d ago. Recently updated Lua project.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 3w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3w ago. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4w ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                657 commits         ████████░░░░░░░░░░░░░░░░░   31.29 % 
-🌆 Daytime                687 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
-🌃 Evening                491 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-🌙 Night                  265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+🌞 Morning                693 commits         ████████░░░░░░░░░░░░░░░░░   31.79 % 
+🌆 Daytime                727 commits         ████████░░░░░░░░░░░░░░░░░   33.35 % 
+🌃 Evening                495 commits         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+🌙 Night                  265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Tuesday                  597 commits         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Wednesday                378 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Thursday                 275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Friday                   65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Saturday                 35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Sunday                   569 commits         ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Monday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Tuesday                  609 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Wednesday                394 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Thursday                 306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Saturday                 35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Sunday                   573 commits         ███████░░░░░░░░░░░░░░░░░░   26.28 % 
 ```
 
 
@@ -89,5 +89,5 @@ Rust                     3 hrs 11 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 24/06/2026 18:38:39 UTC
+ Last Updated on 25/06/2026 00:34:35 UTC
 <!--END_SECTION:waka-->
