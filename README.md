@@ -43,8 +43,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 4d ago. Recently updated Go project.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 4d ago. PHP package that parses serialized strings into structured typed objects.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 5d ago. Recently updated Go project.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 5d ago. PHP package that parses serialized strings into structured typed objects.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 3w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4w ago. Homebrew tap for publishing and installing my CLI tools.
@@ -89,5 +89,5 @@ JavaScript               3 hrs 7 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 27/06/2026 00:31:27 UTC
+ Last Updated on 27/06/2026 07:03:26 UTC
 <!--END_SECTION:waka-->
