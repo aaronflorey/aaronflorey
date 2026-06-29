@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-36-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-39-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -43,8 +43,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 6d ago. Recently updated Go project.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 6d ago. PHP package that parses serialized strings into structured typed objects.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1w ago. Recently updated Go project.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1w ago. PHP package that parses serialized strings into structured typed objects.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 3w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1mo ago. Homebrew tap for publishing and installing my CLI tools.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2041%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                646 commits         ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌆 Daytime                725 commits         █████████░░░░░░░░░░░░░░░░   35.35 % 
-🌃 Evening                497 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-🌙 Night                  183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+🌞 Morning                648 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
+🌆 Daytime                725 commits         █████████░░░░░░░░░░░░░░░░   35.28 % 
+🌃 Evening                497 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+🌙 Night                  185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Tuesday                  523 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Wednesday                347 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Thursday                 305 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Monday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Tuesday                  525 commits         ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Wednesday                348 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Thursday                 306 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 Friday                   70 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Saturday                 35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Sunday                   577 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Saturday                 35 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Sunday                   577 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
 ```
 
 
@@ -89,5 +89,5 @@ JavaScript               2 hrs 51 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 29/06/2026 00:32:17 UTC
+ Last Updated on 29/06/2026 07:37:36 UTC
 <!--END_SECTION:waka-->
