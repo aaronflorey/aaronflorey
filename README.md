@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-39-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-40-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -43,7 +43,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1w ago. Recently updated Go project.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2w ago. PHP package that parses serialized strings into structured typed objects.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
 - 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 1mo ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2038%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                730 commits         ████████░░░░░░░░░░░░░░░░░   32.90 % 
-🌆 Daytime                778 commits         █████████░░░░░░░░░░░░░░░░   35.06 % 
-🌃 Evening                513 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌞 Morning                730 commits         ████████░░░░░░░░░░░░░░░░░   32.88 % 
+🌆 Daytime                779 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
+🌃 Evening                513 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
 🌙 Night                  198 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Tuesday                  562 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Wednesday                369 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Tuesday                  563 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Wednesday                369 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 Thursday                 350 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 Friday                   79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 Saturday                 40 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Sunday                   597 commits         ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Sunday                   597 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
 ```
 
 
@@ -89,5 +89,5 @@ PHP                      2 hrs 9 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 06/07/2026 02:08:03 UTC
+ Last Updated on 06/07/2026 09:57:49 UTC
 <!--END_SECTION:waka-->
