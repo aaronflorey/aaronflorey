@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-36-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-40-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -42,38 +42,38 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2w ago. PHP package that parses serialized strings into structured typed objects.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
-- 🛠️ [diskmon](https://github.com/aaronflorey/diskmon) · Go · updated 1mo ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1mo ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1mo ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1mo ago. Recently updated Go project.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2041%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                726 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
-🌆 Daytime                795 commits         █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌃 Evening                517 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-🌙 Night                  190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+🌞 Morning                621 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+🌆 Daytime                833 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌃 Evening                519 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+🌙 Night                  196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Tuesday                  559 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Wednesday                372 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Thursday                 356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Friday                   78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Saturday                 37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Sunday                   603 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Monday                   203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Tuesday                  526 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Wednesday                372 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Thursday                 324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Friday                   121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Saturday                 39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Sunday                   584 commits         ███████░░░░░░░░░░░░░░░░░░   26.92 % 
 ```
 
 
@@ -89,5 +89,5 @@ TypeScript               2 hrs 34 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 08/07/2026 08:11:20 UTC
+ Last Updated on 08/07/2026 13:32:32 UTC
 <!--END_SECTION:waka-->
