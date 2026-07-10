@@ -43,8 +43,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated today. Recently updated Lua project.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated today. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2w ago. PHP package that parses serialized strings into structured typed objects.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                564 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-🌆 Daytime                770 commits         █████████░░░░░░░░░░░░░░░░   37.60 % 
-🌃 Evening                509 commits         ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌙 Night                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+🌞 Morning                568 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+🌆 Daytime                770 commits         █████████░░░░░░░░░░░░░░░░   37.41 % 
+🌃 Evening                509 commits         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌙 Night                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  510 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Wednesday                348 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 301 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Friday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Saturday                 42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Sunday                   578 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Monday                   176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Tuesday                  514 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Wednesday                350 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 303 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Friday                   93 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Saturday                 44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Sunday                   578 commits         ███████░░░░░░░░░░░░░░░░░░   28.09 % 
 ```
 
 
@@ -89,5 +89,5 @@ Go                       2 hrs 20 mins       █░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/07/2026 19:25:52 UTC
+ Last Updated on 10/07/2026 01:54:01 UTC
 <!--END_SECTION:waka-->
