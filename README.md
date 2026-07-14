@@ -42,9 +42,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 4d ago. Recently updated Lua project.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4d ago. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
+- ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 5d ago. Recently updated Lua project.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 5d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 3w ago. Recently updated Go project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 3w ago. PHP package that parses serialized strings into structured typed objects.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ Go                       1 hr 14 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/07/2026 01:24:46 UTC
+ Last Updated on 14/07/2026 07:49:29 UTC
 <!--END_SECTION:waka-->
