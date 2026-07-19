@@ -49,7 +49,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 3w ago. PHP package that parses serialized strings into structured typed objects.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1mo ago. Reusable skill packs for Codex and Claude Code workflows.
-- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 1mo ago. Recently updated Go project.
+- 🐹 [devproxy](https://github.com/aaronflorey/devproxy) · Go · updated 2mo ago. Recently updated Go project.
 
 ## Weekly coding stats
 
@@ -89,5 +89,5 @@ Go                       1 hr 12 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/07/2026 01:28:29 UTC
+ Last Updated on 19/07/2026 07:56:52 UTC
 <!--END_SECTION:waka-->
