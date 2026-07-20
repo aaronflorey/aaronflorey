@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated today. Run docker compose across directory trees
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated yesterday. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated yesterday. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2023%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -81,13 +81,13 @@ Sunday                   44 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.77 % 
-TypeScript               7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Markdown                 6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-PHP                      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Go                       1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Other                    13 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.95 % 
+TypeScript               7 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Markdown                 7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+PHP                      3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Go                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 
 
- Last Updated on 20/07/2026 13:46:13 UTC
+ Last Updated on 20/07/2026 19:23:26 UTC
 <!--END_SECTION:waka-->
