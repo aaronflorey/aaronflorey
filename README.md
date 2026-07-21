@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated yesterday. Run docker compose across directory trees
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2d ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2d ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1w ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                339 commits         ██████████░░░░░░░░░░░░░░░   41.09 % 
-🌆 Daytime                304 commits         █████████░░░░░░░░░░░░░░░░   36.85 % 
-🌃 Evening                172 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+🌞 Morning                451 commits         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌆 Daytime                621 commits         ███████████░░░░░░░░░░░░░░   43.86 % 
+🌃 Evening                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+🌙 Night                  142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Wednesday                254 commits         ████████░░░░░░░░░░░░░░░░░   30.79 % 
-Thursday                 139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Friday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Saturday                 38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Sunday                   44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Monday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Tuesday                  278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Wednesday                399 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Thursday                 341 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Saturday                 51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Sunday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   44 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   34.95 % 
-TypeScript               7 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-Markdown                 7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-PHP                      3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Go                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Other                    16 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   41.44 % 
+TypeScript               6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Markdown                 5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+PHP                      4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Rust                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 ```
 
 
- Last Updated on 21/07/2026 13:14:25 UTC
+ Last Updated on 21/07/2026 19:07:52 UTC
 <!--END_SECTION:waka-->
