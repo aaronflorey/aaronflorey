@@ -43,7 +43,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3d ago. Run docker compose across directory trees
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 4d ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 4d ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2w ago. Homebrew tap for publishing and installing my CLI tools.
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                480 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌆 Daytime                698 commits         ███████████░░░░░░░░░░░░░░   45.59 % 
-🌃 Evening                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+🌞 Morning                484 commits         ████████░░░░░░░░░░░░░░░░░   31.31 % 
+🌆 Daytime                703 commits         ███████████░░░░░░░░░░░░░░   45.47 % 
+🌃 Evening                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Tuesday                  284 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Wednesday                428 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Thursday                 384 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Saturday                 52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Sunday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Tuesday                  288 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Wednesday                432 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Thursday                 389 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Saturday                 54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Sunday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   141 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 hrs 17 mins      ████████████░░░░░░░░░░░░░   48.72 % 
-TypeScript               9 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-PHP                      8 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Markdown                 6 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-YAML                     1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Other                    31 hrs 35 mins      █████████████░░░░░░░░░░░░   52.20 % 
+TypeScript               8 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+PHP                      7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Markdown                 6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+YAML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 
- Last Updated on 23/07/2026 13:27:15 UTC
+ Last Updated on 23/07/2026 19:02:13 UTC
 <!--END_SECTION:waka-->
