@@ -44,7 +44,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 5d ago. Run docker compose across directory trees
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 5d ago. Recently updated Go project.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 6d ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2w ago. Homebrew tap for publishing and installing my CLI tools.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1mo ago. PHP package that parses serialized strings into structured typed objects.
@@ -54,7 +54,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,5 +89,5 @@ YAML                     1 hr 13 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/07/2026 07:57:13 UTC
+ Last Updated on 25/07/2026 13:02:56 UTC
 <!--END_SECTION:waka-->
