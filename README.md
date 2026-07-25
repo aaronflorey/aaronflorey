@@ -42,36 +42,38 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 5d ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 5d ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2w ago. Homebrew tap for publishing and installing my CLI tools.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1mo ago. PHP package that parses serialized strings into structured typed objects.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 1mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 1mo ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2045%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                482 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
-🌆 Daytime                688 commits         ███████████░░░░░░░░░░░░░░   45.09 % 
-🌃 Evening                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-🌙 Night                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌞 Morning                484 commits         ████████░░░░░░░░░░░░░░░░░   31.68 % 
+🌆 Daytime                685 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
+🌃 Evening                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Tuesday                  286 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Wednesday                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-Thursday                 379 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Saturday                 53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Sunday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Tuesday                  290 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Wednesday                424 commits         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Thursday                 377 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Saturday                 54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Sunday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 
 
@@ -79,13 +81,13 @@ Sunday                   141 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    31 hrs 36 mins      █████████████░░░░░░░░░░░░   52.21 % 
-TypeScript               8 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-PHP                      7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown                 6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-YAML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other                    28 hrs 27 mins      █████████████░░░░░░░░░░░░   51.63 % 
+TypeScript               7 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+PHP                      6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Markdown                 6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
- Last Updated on 24/07/2026 19:16:04 UTC
+ Last Updated on 25/07/2026 01:55:30 UTC
 <!--END_SECTION:waka-->
