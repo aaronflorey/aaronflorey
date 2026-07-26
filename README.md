@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-40-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-41-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -54,26 +54,26 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                488 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
-🌆 Daytime                694 commits         ███████████░░░░░░░░░░░░░░   44.95 % 
-🌃 Evening                213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+🌞 Morning                486 commits         ████████░░░░░░░░░░░░░░░░░   31.68 % 
+🌆 Daytime                691 commits         ███████████░░░░░░░░░░░░░░   45.05 % 
+🌃 Evening                209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+🌙 Night                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Tuesday                  287 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Wednesday                435 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Thursday                 384 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Saturday                 53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Sunday                   137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Monday                   122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Tuesday                  284 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Wednesday                435 commits         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Thursday                 384 commits         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Saturday                 53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Sunday                   131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 ```
 
 
@@ -81,13 +81,13 @@ Sunday                   137 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    25 hrs 1 min        ████████████░░░░░░░░░░░░░   48.55 % 
-TypeScript               7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-PHP                      6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Markdown                 5 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Other                    22 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.33 % 
+TypeScript               6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Markdown                 5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+PHP                      5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
- Last Updated on 26/07/2026 13:01:38 UTC
+ Last Updated on 26/07/2026 19:02:21 UTC
 <!--END_SECTION:waka-->
