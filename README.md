@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-41-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-42-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -54,26 +54,28 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2012%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                496 commits         ████████░░░░░░░░░░░░░░░░░   31.41 % 
-🌆 Daytime                705 commits         ███████████░░░░░░░░░░░░░░   44.65 % 
-🌃 Evening                221 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌞 Morning                502 commits         ████████░░░░░░░░░░░░░░░░░   31.39 % 
+🌆 Daytime                710 commits         ███████████░░░░░░░░░░░░░░   44.40 % 
+🌃 Evening                221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+🌙 Night                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Tuesday                  297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Wednesday                439 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Thursday                 389 commits         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Sunday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Monday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Tuesday                  303 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Wednesday                444 commits         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Thursday                 395 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Sunday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 ```
 
 
@@ -81,13 +83,39 @@ Sunday                   149 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    22 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.33 % 
-TypeScript               6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Markdown                 5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-PHP                      5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Other                    20 hrs 21 mins      ███████████░░░░░░░░░░░░░░   45.87 % 
+TypeScript               8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Markdown                 4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+PHP                      4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 hrs 15 mins (43.39%)
+
+✍️ 12,639 lines written by AI, 34,991 lines written by hand (26.54% AI-written)
+
+🔤 193,452,085 Input Tokens, 997,155 Output Tokens
+
+💵 $966.41 Estimated AI Cost This Week
+
+🧠 212 AI Sessions, 425 AI Prompts
+
+GPT                      11,514 lines        ██████████████████████░░░   87.12 % 
+Glm                      1,601 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+K                        101 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 26.54% of written lines came from AI
+📚 Verbose Prompter — average 3,949 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 73.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 14:13:48 UTC
+ Last Updated on 27/07/2026 19:14:45 UTC
 <!--END_SECTION:waka-->
