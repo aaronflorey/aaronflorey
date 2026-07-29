@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-42-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-43-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2d ago. Run docker compose across directory trees
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3d ago. Run docker compose across directory trees
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1w ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2w ago. Recently updated Lua project.
@@ -61,21 +61,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                496 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
-🌆 Daytime                726 commits         ███████████░░░░░░░░░░░░░░   45.32 % 
-🌃 Evening                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌙 Night                  155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌞 Morning                494 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌆 Daytime                724 commits         ███████████░░░░░░░░░░░░░░   45.39 % 
+🌃 Evening                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌙 Night                  152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Tuesday                  298 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Wednesday                442 commits         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Thursday                 394 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Saturday                 54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Sunday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Monday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Tuesday                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Wednesday                441 commits         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Thursday                 393 commits         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Saturday                 53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Sunday                   161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 
 
@@ -117,5 +117,5 @@ Vscode-Wakatime          0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/07/2026 01:32:30 UTC
+ Last Updated on 29/07/2026 08:24:03 UTC
 <!--END_SECTION:waka-->
