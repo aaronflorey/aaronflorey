@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3w ago. Recently updated Lua project.
@@ -54,28 +54,28 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2056%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-290%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-295%20hrs%2015%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                517 commits         ████████░░░░░░░░░░░░░░░░░   30.74 % 
-🌆 Daytime                794 commits         ████████████░░░░░░░░░░░░░   47.21 % 
-🌃 Evening                219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-🌙 Night                  152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+🌞 Morning                523 commits         ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌆 Daytime                831 commits         ████████████░░░░░░░░░░░░░   47.81 % 
+🌃 Evening                227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+🌙 Night                  157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Tuesday                  295 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Wednesday                458 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-Thursday                 418 commits         ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Saturday                 54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Sunday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Monday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Tuesday                  303 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Wednesday                461 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Thursday                 422 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Saturday                 55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Sunday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 ```
 
 
@@ -83,39 +83,39 @@ Sunday                   174 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.67 % 
-TypeScript               7 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Go                       4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-PHP                      3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-YAML                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    21 hrs 57 mins      ████████████░░░░░░░░░░░░░   48.46 % 
+PHP                      5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+TypeScript               4 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Go                       4 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+YAML                     2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 10 mins (53.02%)
+⏱ AI Coding Time: 24 hrs 5 mins (53.14%)
 
-✍️ 25,319 lines written by AI, 1,452 lines written by hand (94.58% AI-written)
+✍️ 23,803 lines written by AI, 1,551 lines written by hand (93.88% AI-written)
 
-🔤 933,792,034 Input Tokens, 2,461,211 Output Tokens
+🔤 910,889,302 Input Tokens, 2,501,134 Output Tokens
 
-💵 $3218.75 Estimated AI Cost This Week
+💵 $3096.35 Estimated AI Cost This Week
 
-🧠 230 AI Sessions, 979 AI Prompts
+🧠 225 AI Sessions, 1035 AI Prompts
 
-GPT                      25,500 lines        ███████████████████████░░   93.28 % 
-Deepseek                 1,462 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Glm                      374 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+GPT                      24,157 lines        ███████████████████████░░   92.94 % 
+Deepseek                 1,462 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Glm                      374 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.58% of written lines came from AI
-📚 Verbose Prompter — average 11,720 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.15% of changed lines were hand-edited
+🤖 AI-Driven — 93.88% of written lines came from AI
+📚 Verbose Prompter — average 11,558 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 22.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 14:19:42 UTC
+ Last Updated on 04/08/2026 01:27:11 UTC
 <!--END_SECTION:waka-->
