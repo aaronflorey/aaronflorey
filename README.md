@@ -42,11 +42,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3w ago. Recently updated Lua project.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3w ago. Homebrew tap for publishing and installing my CLI tools.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 4w ago. Homebrew tap for publishing and installing my CLI tools.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1mo ago. PHP package that parses serialized strings into structured typed objects.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2mo ago. Reusable skill packs for Codex and Claude Code workflows.
@@ -54,28 +54,28 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2021%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2051%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2053%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2051%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                529 commits         ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-🌆 Daytime                865 commits         ████████████░░░░░░░░░░░░░   48.41 % 
-🌃 Evening                227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌙 Night                  166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+🌞 Morning                529 commits         ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+🌆 Daytime                873 commits         ████████████░░░░░░░░░░░░░   48.64 % 
+🌃 Evening                227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌙 Night                  166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Tuesday                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Wednesday                466 commits         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Thursday                 428 commits         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Sunday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Monday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Tuesday                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Wednesday                466 commits         ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Thursday                 428 commits         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Sunday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 ```
 
 
@@ -117,5 +117,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/08/2026 19:17:01 UTC
+ Last Updated on 06/08/2026 01:29:41 UTC
 <!--END_SECTION:waka-->
