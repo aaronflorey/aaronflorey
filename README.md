@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-30-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-43-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -54,10 +54,6 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2051%20mins-blue?style=flat-square)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2051%20mins-blue?style=flat-square)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -83,39 +79,39 @@ Sunday                   260 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    26 hrs 13 mins      █████████████░░░░░░░░░░░░   51.18 % 
-PHP                      6 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-TypeScript               5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-YAML                     3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Go                       2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Other                    27 hrs 52 mins      ██████████████░░░░░░░░░░░   54.52 % 
+PHP                      6 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+TypeScript               4 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Markdown                 2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+YAML                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 45 mins (48.32%)
+⏱ AI Coding Time: 22 hrs 10 mins (43.35%)
 
-✍️ 19,845 lines written by AI, 2,402 lines written by hand (89.2% AI-written)
+✍️ 15,219 lines written by AI, 2,286 lines written by hand (86.94% AI-written)
 
-🔤 816,009,473 Input Tokens, 2,255,195 Output Tokens
+🔤 349,362,161 Input Tokens, 1,584,707 Output Tokens
 
-💵 $2681.86 Estimated AI Cost This Week
+💵 $1645.15 Estimated AI Cost This Week
 
-🧠 207 AI Sessions, 887 AI Prompts
+🧠 166 AI Sessions, 576 AI Prompts
 
-GPT                      18,639 lines        █████████████████████░░░░   85.65 % 
-Deepseek                 2,232 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Glm                      742 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Sonnet                   149 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+GPT                      13,402 lines        ████████████████████░░░░░   81.85 % 
+Deepseek                 2,232 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Glm                      591 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Sonnet                   149 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.2% of written lines came from AI
-📚 Verbose Prompter — average 11,100 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 19.13% of changed lines were hand-edited
+🤖 AI-Driven — 86.94% of written lines came from AI
+📚 Verbose Prompter — average 9,961 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 16.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/08/2026 13:43:28 UTC
+ Last Updated on 07/08/2026 02:09:24 UTC
 <!--END_SECTION:waka-->
