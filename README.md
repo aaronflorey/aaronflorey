@@ -42,9 +42,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated today. Recently updated Go project.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2w ago. Run docker compose across directory trees
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 3w ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1mo ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1mo ago. Homebrew tap for publishing and installing my CLI tools.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1mo ago. PHP package that parses serialized strings into structured typed objects.
@@ -54,28 +54,28 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2056%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2052%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-312%20hrs%2030%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2015%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                535 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-🌆 Daytime                978 commits         █████████████░░░░░░░░░░░░   51.23 % 
-🌃 Evening                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-🌙 Night                  171 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+🌞 Morning                504 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+🌆 Daytime                971 commits         █████████████░░░░░░░░░░░░   52.32 % 
+🌃 Evening                211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌙 Night                  170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Tuesday                  316 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Wednesday                475 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Thursday                 436 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Friday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Saturday                 61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Sunday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Monday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Tuesday                  311 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Wednesday                453 commits         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Thursday                 430 commits         ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Friday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Saturday                 58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Sunday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 ```
 
 
@@ -83,39 +83,39 @@ Sunday                   338 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 31 mins      ██████████████░░░░░░░░░░░   56.40 % 
-PHP                      3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Markdown                 3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-TypeScript               3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JSON                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    23 hrs 4 mins       ██████████████░░░░░░░░░░░   54.46 % 
+PHP                      5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Markdown                 3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+TypeScript               3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JSON                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 14 mins (39.64%)
+⏱ AI Coding Time: 17 hrs 20 mins (40.9%)
 
-✍️ 10,750 lines written by AI, 1,767 lines written by hand (85.88% AI-written)
+✍️ 10,747 lines written by AI, 2,360 lines written by hand (81.99% AI-written)
 
-🔤 177,562,893 Input Tokens, 1,113,769 Output Tokens
+🔤 96,864,072 Input Tokens, 1,357,534 Output Tokens
 
-💵 $468.30 Estimated AI Cost This Week
+💵 $305.42 Estimated AI Cost This Week
 
-🧠 132 AI Sessions, 385 AI Prompts
+🧠 124 AI Sessions, 348 AI Prompts
 
-GPT                      10,058 lines        ██████████████████████░░░   87.98 % 
-Deepseek                 857 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Glm                      368 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Sonnet                   149 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+GPT                      8,443 lines         ████████████████████████░   94.20 % 
+Deepseek                 520 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.88% of written lines came from AI
-📚 Verbose Prompter — average 8,497 characters per prompt
+🤖 AI-Driven — 81.99% of written lines came from AI
+📚 Verbose Prompter — average 8,626 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 15.89% of changed lines were hand-edited
+🚀 High AI Trust — 27.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 18:52:53 UTC
+ Last Updated on 12/08/2026 01:04:03 UTC
 <!--END_SECTION:waka-->
