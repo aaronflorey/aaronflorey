@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 4d ago. Recently updated Go project.
+- 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 5d ago. Recently updated Go project.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1mo ago. Recently updated Lua project.
@@ -61,21 +61,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                504 commits         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-🌆 Daytime                1093 commits        ██████████████░░░░░░░░░░░   55.15 % 
-🌃 Evening                219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-🌙 Night                  166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+🌞 Morning                504 commits         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+🌆 Daytime                1095 commits        ██████████████░░░░░░░░░░░   55.19 % 
+🌃 Evening                219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+🌙 Night                  166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Tuesday                  318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                469 commits         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Thursday                 455 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Monday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Tuesday                  318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Wednesday                469 commits         ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Thursday                 455 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
 Friday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Saturday                 56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Sunday                   409 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Saturday                 56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Sunday                   411 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
 ```
 
 
@@ -83,19 +83,19 @@ Sunday                   409 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
-PHP                      13 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.24 % 
-Go                       1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-TypeScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Other                    15 hrs 16 mins      ███████████░░░░░░░░░░░░░░   43.22 % 
+PHP                      13 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.52 % 
+Go                       1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 9 mins (44.2%)
+⏱ AI Coding Time: 16 hrs 9 mins (45.72%)
 
-✍️ 12,946 lines written by AI, 3,018 lines written by hand (81.09% AI-written)
+✍️ 12,946 lines written by AI, 2,941 lines written by hand (81.49% AI-written)
 
 🔤 29,637,446 Input Tokens, 2,936,334 Output Tokens
 
@@ -110,12 +110,12 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.09% of written lines came from AI
+🤖 AI-Driven — 81.49% of written lines came from AI
 📚 Verbose Prompter — average 9,226 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 33.83% of changed lines were hand-edited
+🚀 High AI Trust — 33.56% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 18:18:53 UTC
+ Last Updated on 17/08/2026 00:42:36 UTC
 <!--END_SECTION:waka-->
