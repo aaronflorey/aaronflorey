@@ -43,7 +43,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1w ago. Recently updated Go project.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2w ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1mo ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1mo ago. Homebrew tap for publishing and installing my CLI tools.
@@ -54,9 +54,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2012%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2014%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2028%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%209%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
@@ -83,39 +83,39 @@ Sunday                   451 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.55 % 
-PHP                      10 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-TypeScript               2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Go                       1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Terraform                1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Other                    13 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   36.45 % 
+PHP                      6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+TypeScript               4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+YAML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Terraform                2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 13 mins (52.41%)
+⏱ AI Coding Time: 20 hrs 42 mins (57.02%)
 
-✍️ 15,491 lines written by AI, 1,809 lines written by hand (89.54% AI-written)
+✍️ 15,526 lines written by AI, 1,560 lines written by hand (90.87% AI-written)
 
-🔤 26,318,617 Input Tokens, 2,880,125 Output Tokens
+🔤 28,886,098 Input Tokens, 2,715,611 Output Tokens
 
-💵 $974.55 Estimated AI Cost This Week
+💵 $598.22 Estimated AI Cost This Week
 
-🧠 223 AI Sessions, 535 AI Prompts
+🧠 334 AI Sessions, 652 AI Prompts
 
-GPT                      16,052 lines        ███████████████████████░░   92.71 % 
-Deepseek                 1,187 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-K                        76 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GPT                      16,747 lines        ████████████████████████░   96.67 % 
+Deepseek                 536 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+K                        41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.54% of written lines came from AI
-📚 Verbose Prompter — average 6,329 characters per prompt
+🤖 AI-Driven — 90.87% of written lines came from AI
+📚 Verbose Prompter — average 5,043 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 19.95% of changed lines were hand-edited
+🚀 High AI Trust — 15.62% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 18:24:11 UTC
+ Last Updated on 20/08/2026 00:42:12 UTC
 <!--END_SECTION:waka-->
