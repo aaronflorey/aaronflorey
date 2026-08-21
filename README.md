@@ -47,7 +47,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 3w ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1mo ago. Recently updated Lua project.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1mo ago. Homebrew tap for publishing and installing my CLI tools.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 1mo ago. PHP package that parses serialized strings into structured typed objects.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2mo ago. PHP package that parses serialized strings into structured typed objects.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
@@ -117,5 +117,5 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/08/2026 00:45:52 UTC
+ Last Updated on 21/08/2026 06:34:16 UTC
 <!--END_SECTION:waka-->
