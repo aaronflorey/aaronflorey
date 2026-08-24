@@ -49,33 +49,33 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1mo ago. Homebrew tap for publishing and installing my CLI tools.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 2mo ago. PHP package that parses serialized strings into structured typed objects.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 2mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 2mo ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 3mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2014%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2016%20mins-blue?style=flat-square)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%209%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                538 commits         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-🌆 Daytime                1170 commits        █████████████░░░░░░░░░░░░   53.77 % 
-🌃 Evening                283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-🌙 Night                  185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+🌞 Morning                538 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+🌆 Daytime                1175 commits        █████████████░░░░░░░░░░░░   53.87 % 
+🌃 Evening                283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+🌙 Night                  185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Tuesday                  371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                466 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Thursday                 450 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Friday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Sunday                   541 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Monday                   152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Tuesday                  371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Wednesday                468 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Thursday                 453 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Friday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Sunday                   541 commits         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 ```
 
 
@@ -83,17 +83,17 @@ Sunday                   541 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 16 mins      ███████████░░░░░░░░░░░░░░   43.30 % 
-TypeScript               4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-YAML                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Terraform                2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Other                    11 hrs 57 mins      ███████████░░░░░░░░░░░░░░   44.81 % 
+TypeScript               4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+YAML                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Terraform                2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 49 mins (56.92%)
+⏱ AI Coding Time: 14 hrs 49 mins (55.59%)
 
 ✍️ 8,991 lines written by AI, 188 lines written by hand (97.95% AI-written)
 
@@ -117,5 +117,5 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/08/2026 18:21:29 UTC
+ Last Updated on 24/08/2026 00:43:28 UTC
 <!--END_SECTION:waka-->
