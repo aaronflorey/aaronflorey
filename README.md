@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 4d ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2w ago. Recently updated Go project.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1mo ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 1mo ago. Recently updated Lua project.
@@ -54,9 +54,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2051%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2046%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2059%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-358%20hrs%2053%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
@@ -117,5 +117,5 @@ GLM                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/08/2026 22:16:29 UTC
+ Last Updated on 01/09/2026 02:36:33 UTC
 <!--END_SECTION:waka-->
