@@ -54,27 +54,27 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2027%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2037%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-389%20hrs%2012%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-394%20hrs%2043%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                588 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-🌆 Daytime                1610 commits        ██████████████░░░░░░░░░░░   57.85 % 
+🌞 Morning                584 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+🌆 Daytime                1620 commits        ███████████████░░░░░░░░░░   58.21 % 
 🌃 Evening                367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-🌙 Night                  218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+🌙 Night                  212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Tuesday                  443 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                518 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Thursday                 526 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Tuesday                  439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                520 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Thursday                 530 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
 Friday                   139 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Saturday                 61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Saturday                 59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 Sunday                   923 commits         ████████░░░░░░░░░░░░░░░░░   33.17 % 
 ```
 
@@ -83,38 +83,39 @@ Sunday                   923 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
-Markdown                 6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-YAML                     5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Rust                     3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-TypeScript               3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    14 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   33.89 % 
+Markdown                 6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+TypeScript               4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+YAML                     4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Rust                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 48 mins (47.54%)
+⏱ AI Coding Time: 21 hrs 29 mins (49.8%)
 
-✍️ 8,879 lines written by AI, 3,745 lines written by hand (70.33% AI-written)
+✍️ 10,835 lines written by AI, 3,100 lines written by hand (77.75% AI-written)
 
-🔤 24,982,674 Input Tokens, 2,154,163 Output Tokens
+🔤 25,732,336 Input Tokens, 2,261,477 Output Tokens
 
-💵 $178.30 Estimated AI Cost This Week
+💵 $187.51 Estimated AI Cost This Week
 
-🧠 303 AI Sessions, 495 AI Prompts
+🧠 335 AI Sessions, 646 AI Prompts
 
-GPT                      9,340 lines         ███████████████████████░░   93.12 % 
-K                        599 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Codex-Vscode             91 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+GPT                      11,480 lines        ████████████████████████░   94.33 % 
+K                        599 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Codex-Vscode             91 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.33% of written lines came from AI
-📚 Verbose Prompter — average 2,702 characters per prompt
+🤖 AI-Driven — 77.75% of written lines came from AI
+📚 Verbose Prompter — average 8,063 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 37.13% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.37% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 15:35:49 UTC
+ Last Updated on 10/09/2026 20:19:04 UTC
 <!--END_SECTION:waka-->
