@@ -54,9 +54,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2058%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2026%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-398%20hrs%2019%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-399%20hrs%2046%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
@@ -83,39 +83,39 @@ Sunday                   1109 commits        █████████░░�
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   39.82 % 
-TypeScript               4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Markdown                 4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-PHP                      4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-YAML                     3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other                    15 hrs              █████████░░░░░░░░░░░░░░░░   36.73 % 
+TypeScript               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+YAML                     5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+PHP                      3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Markdown                 3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 9 mins (41.28%)
+⏱ AI Coding Time: 14 hrs 26 mins (35.35%)
 
-✍️ 11,785 lines written by AI, 2,185 lines written by hand (84.36% AI-written)
+✍️ 10,795 lines written by AI, 2,240 lines written by hand (82.82% AI-written)
 
-🔤 19,751,404 Input Tokens, 1,829,932 Output Tokens
+🔤 15,297,161 Input Tokens, 1,556,542 Output Tokens
 
-💵 $141.68 Estimated AI Cost This Week
+💵 $133.59 Estimated AI Cost This Week
 
-🧠 251 AI Sessions, 566 AI Prompts
+🧠 195 AI Sessions, 473 AI Prompts
 
-GPT                      13,025 lines        █████████████████████████   99.51 % 
-Deepseek                 64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+GPT                      11,990 lines        █████████████████████████   99.47 % 
+Deepseek                 64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.36% of written lines came from AI
-📚 Verbose Prompter — average 11,185 characters per prompt
+🤖 AI-Driven — 82.82% of written lines came from AI
+📚 Verbose Prompter — average 12,662 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 72.52% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 16:01:27 UTC
+ Last Updated on 15/09/2026 20:47:03 UTC
 <!--END_SECTION:waka-->
