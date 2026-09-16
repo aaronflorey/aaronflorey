@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-33-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-45-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-46-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -117,5 +117,5 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/09/2026 10:34:06 UTC
+ Last Updated on 16/09/2026 15:54:27 UTC
 <!--END_SECTION:waka-->
