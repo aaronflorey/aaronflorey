@@ -48,7 +48,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2mo ago. Run docker compose across directory trees
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2mo ago. Recently updated Lua project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 3mo ago. PHP package that parses serialized strings into structured typed objects.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 3mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Go · updated 4mo ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
 ## Weekly coding stats
@@ -61,21 +61,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                606 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-🌆 Daytime                2061 commits        ████████████████░░░░░░░░░   63.16 % 
-🌃 Evening                325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-🌙 Night                  271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+🌞 Morning                618 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+🌆 Daytime                2086 commits        ████████████████░░░░░░░░░   62.61 % 
+🌃 Evening                353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+🌙 Night                  275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Tuesday                  461 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Wednesday                568 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Thursday                 595 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Friday                   141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Saturday                 81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Sunday                   1255 commits        ██████████░░░░░░░░░░░░░░░   38.46 % 
+Monday                   169 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Tuesday                  480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Thursday                 594 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Friday                   141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Sunday                   1301 commits        ██████████░░░░░░░░░░░░░░░   39.05 % 
 ```
 
 
@@ -115,5 +115,5 @@ GPT                      2,218 lines         ██████░░░░░�
 ```
 
 
- Last Updated on 25/09/2026 21:02:26 UTC
+ Last Updated on 26/09/2026 02:35:40 UTC
 <!--END_SECTION:waka-->
