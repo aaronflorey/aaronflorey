@@ -54,28 +54,28 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2054%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2044%20mins-blue?style=flat-square)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-410%20hrs%208%20mins-blue?style=flat-square)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                602 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-🌆 Daytime                2098 commits        ████████████████░░░░░░░░░   63.81 % 
-🌃 Evening                321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-🌙 Night                  267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌞 Morning                606 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌆 Daytime                2108 commits        ████████████████░░░░░░░░░   63.65 % 
+🌃 Evening                329 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+🌙 Night                  269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Tuesday                  456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 594 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Friday                   141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Sunday                   1289 commits        ██████████░░░░░░░░░░░░░░░   39.20 % 
+Monday                   163 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Tuesday                  462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Wednesday                567 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Thursday                 594 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Friday                   141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Saturday                 80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Sunday                   1305 commits        ██████████░░░░░░░░░░░░░░░   39.40 % 
 ```
 
 
@@ -83,19 +83,19 @@ Sunday                   1289 commits        ██████████░�
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 39 mins      ███████████░░░░░░░░░░░░░░   42.95 % 
-TypeScript               6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-PHP                      1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Docker                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Markdown                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Other                    16 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.66 % 
+TypeScript               6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Markdown                 1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+PHP                      1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Docker                   1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (17.18%)
+⏱ AI Coding Time: 5 hrs 51 mins (15.98%)
 
-✍️ 9,078 lines written by AI, 4,168 lines written by hand (68.53% AI-written)
+✍️ 9,078 lines written by AI, 4,530 lines written by hand (66.71% AI-written)
 
 🔤 10,333,964 Input Tokens, 711,749 Output Tokens
 
@@ -108,12 +108,12 @@ Deepseek                 3,246 lines         █████████░░�
 GPT                      2,218 lines         ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.53% of written lines came from AI
+🤖 AI-Driven — 66.71% of written lines came from AI
 📚 Verbose Prompter — average 8,772 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 43.55% of changed lines were hand-edited
+🚀 High AI Trust — 44.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 16:08:54 UTC
+ Last Updated on 27/09/2026 20:42:51 UTC
 <!--END_SECTION:waka-->
