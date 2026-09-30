@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-34-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-35-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-47-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -42,9 +42,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated today. Run docker compose across directory trees
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated yesterday. Run docker compose across directory trees
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2mo ago. Recently updated Lua project.
@@ -61,21 +61,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                678 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌆 Daytime                2155 commits        ████████████████░░░░░░░░░   62.14 % 
-🌃 Evening                356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-🌙 Night                  279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+🌞 Morning                624 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+🌆 Daytime                2134 commits        ████████████████░░░░░░░░░   63.38 % 
+🌃 Evening                336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌙 Night                  273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   182 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Tuesday                  494 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Wednesday                629 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Thursday                 641 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Friday                   106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Saturday                 85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Sunday                   1331 commits        ██████████░░░░░░░░░░░░░░░   38.38 % 
+Monday                   164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Tuesday                  477 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Wednesday                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Thursday                 613 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Friday                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Saturday                 83 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Sunday                   1331 commits        ██████████░░░░░░░░░░░░░░░   39.53 % 
 ```
 
 
@@ -116,5 +116,5 @@ Glm                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/09/2026 21:49:57 UTC
+ Last Updated on 30/09/2026 03:03:50 UTC
 <!--END_SECTION:waka-->
