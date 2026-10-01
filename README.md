@@ -42,9 +42,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated yesterday. Run docker compose across directory trees
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2d ago. Run docker compose across directory trees
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 3w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2mo ago. Recently updated Lua project.
@@ -61,21 +61,21 @@ Pragmatic software engineer building maintainable products, developer tools, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                634 commits         █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-🌆 Daytime                2120 commits        ████████████████░░░░░░░░░   62.81 % 
-🌃 Evening                336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-🌙 Night                  285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+🌞 Morning                656 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌆 Daytime                2208 commits        ████████████████░░░░░░░░░   63.41 % 
+🌃 Evening                342 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+🌙 Night                  276 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                599 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Thursday                 608 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Friday                   101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Saturday                 87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Sunday                   1331 commits        ██████████░░░░░░░░░░░░░░░   39.44 % 
+Monday                   175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Tuesday                  483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Wednesday                615 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Thursday                 632 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Friday                   125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Saturday                 84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Sunday                   1368 commits        ██████████░░░░░░░░░░░░░░░   39.29 % 
 ```
 
 
@@ -117,5 +117,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/09/2026 21:51:10 UTC
+ Last Updated on 01/10/2026 03:09:24 UTC
 <!--END_SECTION:waka-->
