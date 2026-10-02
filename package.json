@@ -2,12 +2,12 @@
   "name": "github-profile",
   "private": true,
   "scripts": {
-    "generate": "bun run scripts/generate-readme.ts",
     "check": "bun run scripts/generate-readme.ts --check",
+    "generate": "bun run scripts/generate-readme.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "bun-types": "latest",
-    "typescript": "^5.9.3"
+    "bun-types": "^1.4.2",
+    "typescript": "^7.0.2"
   }
 }

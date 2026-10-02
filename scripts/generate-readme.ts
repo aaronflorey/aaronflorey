@@ -10,6 +10,7 @@ type GitHubRepo = {
   html_url: string;
   description: string | null;
   homepage: string | null;
+  private: boolean;
   fork: boolean;
   archived: boolean;
   language: string | null;
@@ -46,12 +47,18 @@ async function main() {
   const existingReadme = await readTextIfExists(README_PATH);
   const wakaSection =
     normalizeWakaContent(process.env.WAKA_SECTION_CONTENT) ??
+    (await fetchWakaSection()) ??
     extractSection(existingReadme, WAKA_START, WAKA_END) ??
     DEFAULT_WAKA_PLACEHOLDER;
 
-  const [user, repos] = await Promise.all([fetchUser(), fetchRepos()]);
+  const [user, repos, organizationRepos] = await Promise.all([
+    fetchUser(),
+    fetchRepos(profileConfig.username),
+    fetchRepos(profileConfig.recentProjects.organization, "orgs"),
+  ]);
   const recentProjects = selectRecentProjects(repos);
-  const nextReadme = renderReadme(user, recentProjects, wakaSection);
+  const organizationProjects = selectRecentProjects(organizationRepos);
+  const nextReadme = renderReadme(user, recentProjects, organizationProjects, wakaSection);
 
   if (Bun.argv.includes("--check")) {
     if (existingReadme !== nextReadme) {
@@ -69,7 +76,33 @@ async function main() {
   }
 
   await Bun.write(README_PATH, nextReadme);
-  console.log(`README.md updated with ${recentProjects.length} recent projects.`);
+  console.log(
+    `README.md updated with ${recentProjects.length} personal and ${organizationProjects.length} organization projects.`,
+  );
+}
+
+export async function fetchWakaSection(apiKey = process.env.WAKATIME_API_KEY) {
+  if (!apiKey) return null;
+
+  const response = await fetch("https://api.wakatime.com/api/v1/users/current/stats/last_7_days", {
+    headers: { Authorization: `Basic ${Buffer.from(apiKey).toString("base64")}` },
+  });
+  if (!response.ok) {
+    throw new Error(`WakaTime API request failed: ${response.status} ${response.statusText}`);
+  }
+  if (response.status === 202) return null;
+
+  const { data } = (await response.json()) as {
+    data: {
+      human_readable_total: string;
+      languages: Array<{ name: string; text: string; percent: number }>;
+    };
+  };
+  const lines = data.languages.map(
+    (language) =>
+      `${language.name.padEnd(16)} ${language.text.padEnd(18)} ${language.percent.toFixed(2)}%`,
+  );
+  return ["```text", `Last 7 days: ${data.human_readable_total}`, "", ...lines, "```"].join("\n");
 }
 
 async function readTextIfExists(path: URL) {
@@ -107,12 +140,12 @@ async function fetchUser() {
   return githubRequest<GitHubUser>(`/users/${profileConfig.username}`);
 }
 
-async function fetchRepos() {
+export async function fetchRepos(owner: string, kind: "users" | "orgs" = "users") {
   const repos: GitHubRepo[] = [];
 
   for (let page = 1; ; page += 1) {
     const batch = await githubRequest<GitHubRepo[]>(
-      `/users/${profileConfig.username}/repos?sort=updated&direction=desc&per_page=100&page=${page}`,
+      `/${kind}/${encodeURIComponent(owner)}/repos?type=public&sort=updated&direction=desc&per_page=100&page=${page}`,
     );
 
     repos.push(...batch);
@@ -140,7 +173,7 @@ async function githubRequest<T>(path: string): Promise<T> {
   return (await response.json()) as T;
 }
 
-function selectRecentProjects(repos: GitHubRepo[]) {
+export function selectRecentProjects(repos: GitHubRepo[]) {
   const cutoff = new Date();
   cutoff.setMonth(cutoff.getMonth() - profileConfig.recentProjects.lookbackMonths);
   const excludedRepoNames = new Set(
@@ -148,6 +181,7 @@ function selectRecentProjects(repos: GitHubRepo[]) {
   );
 
   return repos
+    .filter((repo) => !repo.private)
     .filter((repo) => !excludedRepoNames.has(repo.name.toLowerCase()))
     .filter((repo) => !profileConfig.recentProjects.excludeForks || !repo.fork)
     .filter((repo) => !profileConfig.recentProjects.excludeArchived || !repo.archived)
@@ -156,7 +190,12 @@ function selectRecentProjects(repos: GitHubRepo[]) {
     .slice(0, profileConfig.recentProjects.maxCount);
 }
 
-function renderReadme(user: GitHubUser, recentProjects: GitHubRepo[], wakaSection: string) {
+function renderReadme(
+  user: GitHubUser,
+  recentProjects: GitHubRepo[],
+  organizationProjects: GitHubRepo[],
+  wakaSection: string,
+) {
   const statsTheme = encodeURIComponent(profileConfig.stats.theme);
   const skillIcons = profileConfig.skillIcons.join(",");
   const badges = profileConfig.badges.map(renderBadge).join("\n");
@@ -166,7 +205,10 @@ function renderReadme(user: GitHubUser, recentProjects: GitHubRepo[], wakaSectio
     .join("\n");
   const projects = recentProjects.length
     ? recentProjects.map(renderProject).join("\n")
-    : "- Nothing public has been pushed in the last 6 months yet.";
+    : `- Nothing public has been pushed in the last ${profileConfig.recentProjects.lookbackMonths} months yet.`;
+  const orgProjects = organizationProjects.length
+    ? organizationProjects.map(renderProject).join("\n")
+    : "- No recently updated public projects.";
 
   return `${GENERATED_HEADER}
 
@@ -192,21 +234,27 @@ ${quickFacts}
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=${encodeURIComponent(profileConfig.username)}&show_icons=true&theme=${statsTheme}&hide_border=true&rank_icon=github" alt="${profileConfig.name} GitHub stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=${encodeURIComponent(profileConfig.username)}&show_icons=true&theme=${statsTheme}&hide_border=true&rank_icon=github" alt="${profileConfig.name} GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${encodeURIComponent(profileConfig.username)}&layout=compact&theme=${statsTheme}&hide_border=true&langs_count=8" alt="${profileConfig.name} top languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=${encodeURIComponent(profileConfig.username)}&layout=compact&theme=${statsTheme}&hide_border=true&langs_count=8" alt="${profileConfig.name} top languages" />
     </td>
   </tr>
 </table>
 
 <img src="https://streak-stats.demolab.com?user=${encodeURIComponent(profileConfig.username)}&theme=${statsTheme}&hide_border=true" alt="${profileConfig.name} contribution streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=${encodeURIComponent(profileConfig.username)}&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="${profileConfig.name} trophies" />
+<img src="https://trophy.ryglcloud.net/?username=${encodeURIComponent(profileConfig.username)}&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="${profileConfig.name} trophies" />
 
 ## Recently updated projects
 
 ${projects}
+
+## Auron Labs projects
+
+Public projects from [@${profileConfig.recentProjects.organization}](https://github.com/${profileConfig.recentProjects.organization}).
+
+${orgProjects}
 
 ## ${profileConfig.waka.title}
 
@@ -237,7 +285,9 @@ function escapeBadgePart(value: string) {
 }
 
 function renderProject(repo: GitHubRepo) {
-  const metadata = [repo.language, relativeDate(new Date(repo.pushed_at))].filter(Boolean).join(" · ");
+  const metadata = [repo.language, relativeDate(new Date(repo.pushed_at))]
+    .filter(Boolean)
+    .join(" · ");
   const description = resolveDescription(repo);
 
   return `- ${resolveEmoji(repo)} [${repo.name}](${repo.html_url})${metadata ? ` · ${metadata}` : ""}. ${description}`;
@@ -299,7 +349,7 @@ function resolveEmoji(repo: GitHubRepo) {
     Python: "🐍",
   };
 
-  return repo.language ? languageFallbacks[repo.language] ?? "✨" : "✨";
+  return repo.language ? (languageFallbacks[repo.language] ?? "✨") : "✨";
 }
 
 function truncate(value: string, maxLength: number) {
@@ -332,7 +382,8 @@ function relativeDate(date: Date) {
   return `updated ${Math.floor(diffDays / 30)}mo ago`;
 }
 
-await main().catch((error: unknown) => {
-  console.error(error instanceof Error ? error.message : error);
-  process.exit(1);
-});
+if (import.meta.main)
+  await main().catch((error: unknown) => {
+    console.error(error instanceof Error ? error.message : error);
+    process.exit(1);
+  });

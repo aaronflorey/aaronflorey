@@ -82,6 +82,7 @@ export const profileConfig = {
     "git",
   ],
   recentProjects: {
+    organization: "auron-labs",
     lookbackMonths: 6,
     maxCount: 8,
     excludeForks: true,
@@ -111,6 +112,7 @@ export const profileConfig = {
   badges: Badge[];
   skillIcons: string[];
   recentProjects: {
+    organization: string;
     lookbackMonths: number;
     maxCount: number;
     excludeForks: boolean;
