@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-35-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-47-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -28,94 +28,84 @@ Pragmatic software engineer building maintainable products, developer tools, and
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aaronflorey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aaron Florey GitHub stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=aaronflorey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aaron Florey GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronflorey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aaron Florey top languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aaronflorey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aaron Florey top languages" />
     </td>
   </tr>
 </table>
 
 <img src="https://streak-stats.demolab.com?user=aaronflorey&theme=tokyonight&hide_border=true" alt="Aaron Florey contribution streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=aaronflorey&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Aaron Florey trophies" />
+<img src="https://trophy.ryglcloud.net/?username=aaronflorey&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Aaron Florey trophies" />
 
 ## Recently updated projects
 
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated today. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2d ago. Run docker compose across directory trees
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated 3d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 4d ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 2mo ago. Recently updated Lua project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 3mo ago. PHP package that parses serialized strings into structured typed objects.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
+## Auron Labs projects
+
+Public projects from [@auron-labs](https://github.com/auron-labs).
+
+- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated yesterday. Recently updated Rust project.
+- 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 2d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
+- ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 3d ago. Windows game launcher with RomM integration
+- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 1w ago. Recently updated TypeScript project.
+- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 1mo ago. Recently updated TypeScript project.
+- ✨ [oracle-docker](https://github.com/auron-labs/oracle-docker) · Shell · updated 1mo ago. Recently updated Shell project.
+- 🍺 [homebrew-tap](https://github.com/auron-labs/homebrew-tap) · updated 2mo ago. Homebrew tap for publishing and installing my CLI tools.
+
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2048%20mins-blue?style=flat-square)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-422%20hrs%2045%20mins-blue?style=flat-square)
-
-**I'm an Early 🐤**
-
 ```text
-🌞 Morning                631 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 %
-🌆 Daytime                2149 commits        ████████████████░░░░░░░░░   63.30 %
-🌃 Evening                336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-🌙 Night                  279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+Last 7 days: 24 hrs 10 mins
+
+Other            20 hrs 16 mins     45.62%
+PHP              4 hrs 27 mins      10.03%
+YAML             3 hrs 41 mins      8.31%
+TypeScript       2 hrs 18 mins      5.18%
+Markdown         2 hrs 11 mins      4.92%
+terraform        1 hr 41 mins       3.81%
+Bash             1 hr 36 mins       3.64%
+TOML             1 hr 10 mins       2.63%
+Terraform        1 hr 8 mins        2.56%
+JSON             1 hr 5 mins        2.45%
+Rust             1 hr 4 mins        2.43%
+Docker           46 mins            1.73%
+log              34 mins            1.30%
+Go               31 mins            1.18%
+shell script     27 mins            1.02%
+Python           27 mins            1.02%
+Text             19 mins            0.74%
+Jinja2           4 mins             0.18%
+env              4 mins             0.17%
+Pickle           4 mins             0.16%
+SQL              4 mins             0.15%
+TSConfig         3 mins             0.14%
+ActionScript     2 mins             0.11%
+TSQL             1 min              0.07%
+HCL              1 min              0.07%
+git ignore       1 min              0.07%
+go mod           1 min              0.07%
+GitIgnore file   1 min              0.05%
+Groff            1 min              0.04%
+jsonc            1 min              0.04%
+JavaScript       1 min              0.04%
+Git Config       0 secs             0.02%
+textmate         0 secs             0.01%
+hcl              0 secs             0.01%
+Dockerfile       0 secs             0.01%
+Ezhil            0 secs             0.00%
+XML              0 secs             0.00%
 ```
-
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday                   164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-Wednesday                596 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 %
-Thursday                 603 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 %
-Friday                   101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Saturday                 85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Sunday                   1361 commits        ██████████░░░░░░░░░░░░░░░   40.09 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-Other                    14 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   39.44 %
-TypeScript               4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-YAML                     3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-PHP                      2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Markdown                 2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-```
-
-🤖 **AI Coding This Week**
-
-```text
-⏱ AI Coding Time: 13 hrs 15 mins (34.95%)
-
-✍️ 6,927 lines written by AI, 5,146 lines written by hand (57.38% AI-written)
-
-🔤 17,319,245 Input Tokens, 871,950 Output Tokens
-
-💵 $262.85 Estimated AI Cost This Week
-
-🧠 56 AI Sessions, 229 AI Prompts
-
-DeepSeek                 3,797 lines         █████████████░░░░░░░░░░░░   53.20 %
-GPT                      1,658 lines         ██████░░░░░░░░░░░░░░░░░░░   23.23 %
-Glm                      1,152 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-Deepseek                 530 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.38% of written lines came from AI
-📚 Verbose Prompter — average 6,223 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 80.14% of changed lines were hand-edited
-```
-
-Last Updated on 01/10/2026 18:23:24 UTC
 <!--END_SECTION:waka-->
