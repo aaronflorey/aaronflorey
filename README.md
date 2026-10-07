@@ -42,8 +42,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 6d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated today. Homebrew tap for publishing and installing my CLI tools.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1mo ago. Recently updated Go project.
@@ -55,11 +55,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
+- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated today. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
-- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 2d ago. Recently updated Rust project.
-- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 5d ago. Recently updated Go project.
+- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 6d ago. Recently updated Go project.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 1w ago. Windows game launcher with RomM integration
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 1w ago. Recently updated TypeScript project.
 - ✨ [oracle-docker](https://github.com/auron-labs/oracle-docker) · Shell · updated 1mo ago. Recently updated Shell project.
@@ -68,42 +68,36 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 23 hrs 5 mins
+Last 7 days: 23 hrs 25 mins
 
-Other            18 hrs 33 mins     44.56%
-PHP              10 hrs 40 mins     25.62%
-Markdown         1 hr 49 mins       4.38%
-Rust             1 hr 47 mins       4.29%
-TypeScript       1 hr 34 mins       3.78%
-TOML             1 hr 15 mins       3.01%
-terraform        1 hr 8 mins        2.74%
-Terraform        1 hr 5 mins        2.61%
-JSON             47 mins            1.89%
-YAML             28 mins            1.16%
-Go               27 mins            1.10%
-Bash             26 mins            1.04%
-JavaScript       22 mins            0.91%
-Python           21 mins            0.88%
-shell script     17 mins            0.70%
-Docker           7 mins             0.32%
-log              4 mins             0.17%
-SQL              4 mins             0.16%
-Text             3 mins             0.13%
-TSQL             1 min              0.08%
-go mod           1 min              0.07%
+Other            16 hrs 20 mins     41.11%
+PHP              13 hrs 8 mins      33.07%
+Markdown         2 hrs 10 mins      5.45%
+Rust             1 hr 39 mins       4.15%
+TypeScript       1 hr 27 mins       3.68%
+TOML             1 hr 9 mins        2.92%
+Terraform        49 mins            2.08%
+terraform        34 mins            1.43%
+Go               27 mins            1.15%
+JSON             26 mins            1.12%
+YAML             22 mins            0.96%
+Python           21 mins            0.92%
+JavaScript       21 mins            0.92%
+shell script     11 mins            0.47%
+Text             6 mins             0.26%
 git ignore       1 min              0.06%
-ActionScript     1 min              0.06%
 GitIgnore file   1 min              0.06%
-Log              1 min              0.05%
-Groff            1 min              0.05%
+Log              1 min              0.06%
 HCL              0 secs             0.04%
 CSV              0 secs             0.03%
-textmate         0 secs             0.01%
+Bash             0 secs             0.03%
+Groff            0 secs             0.02%
+textmate         0 secs             0.02%
 hcl              0 secs             0.01%
-Dockerfile       0 secs             0.01%
 jsonc            0 secs             0.00%
+Docker           0 secs             0.00%
 TSConfig         0 secs             0.00%
-env              0 secs             0.00%
+Vue              0 secs             0.00%
 XML              0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
