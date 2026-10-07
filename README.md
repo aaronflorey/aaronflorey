@@ -55,9 +55,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
-- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated yesterday. Recently updated Rust project.
+- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 2d ago. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 5d ago. Recently updated Go project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 6d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 1w ago. Windows game launcher with RomM integration
