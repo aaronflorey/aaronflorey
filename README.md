@@ -42,9 +42,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated today. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 6d ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3mo ago. Recently updated Lua project.
@@ -58,7 +58,7 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated today. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 2d ago. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 3d ago. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 6d ago. Recently updated Go project.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 1w ago. Windows game launcher with RomM integration
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 1w ago. Recently updated TypeScript project.
