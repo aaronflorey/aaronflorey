@@ -43,8 +43,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 ## Recently updated projects
 
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated 2d ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 1mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3mo ago. Recently updated Lua project.
@@ -57,7 +57,7 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
-- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated today. Recently updated TypeScript project.
+- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated yesterday. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 2d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated 2d ago. Recently updated Rust project.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 4d ago. Recently updated Rust project.
@@ -68,31 +68,35 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 23 hrs 49 mins
+Last 7 days: 24 hrs 8 mins
 
-Other            14 hrs 54 mins     38.48%
-PHP              14 hrs 14 mins     36.76%
-Rust             2 hrs 57 mins      7.63%
-Markdown         2 hrs 49 mins      7.28%
-TypeScript       1 hr 2 mins        2.69%
-YAML             39 mins            1.68%
-TOML             27 mins            1.20%
-Go               27 mins            1.18%
-JSON             23 mins            1.01%
-JavaScript       21 mins            0.94%
-Text             11 mins            0.49%
-Terraform        10 mins            0.47%
-GitIgnore file   1 min              0.06%
+Other            14 hrs 32 mins     37.58%
+PHP              13 hrs 49 mins     35.72%
+Markdown         3 hrs 43 mins      9.62%
+Rust             1 hr 48 mins       4.66%
+YAML             1 hr 35 mins       4.12%
+TypeScript       1 hr 6 mins        2.87%
+TOML             31 mins            1.36%
+JSON             23 mins            1.02%
+Text             23 mins            1.00%
+JavaScript       21 mins            0.93%
+CSS              9 mins             0.40%
+Bash             7 mins             0.33%
+Shell Script     4 mins             0.21%
 Log              1 min              0.06%
+shell script     1 min              0.06%
 CSV              0 secs             0.03%
-textmate         0 secs             0.02%
-terraform        0 secs             0.01%
-shell script     0 secs             0.01%
+textmate         0 secs             0.01%
+Docker           0 secs             0.01%
+GitIgnore file   0 secs             0.00%
+SQL              0 secs             0.00%
 .env file        0 secs             0.00%
 XML              0 secs             0.00%
 TSConfig         0 secs             0.00%
 jsonc            0 secs             0.00%
 EditorConfig     0 secs             0.00%
+Jinja2           0 secs             0.00%
 Vue              0 secs             0.00%
+INI              0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
