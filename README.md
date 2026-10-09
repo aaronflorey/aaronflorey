@@ -42,7 +42,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ## Recently updated projects
 
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated today. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated yesterday. Go CLI that updates project dependencies when you enter a repository.
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated yesterday. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated yesterday. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
@@ -55,11 +55,11 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
+- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated today. Recently updated TypeScript project.
-- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated yesterday. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated yesterday. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated yesterday. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 3d ago. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 4d ago. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 1w ago. Recently updated Go project.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 1w ago. Windows game launcher with RomM integration
 - ✨ [oracle-docker](https://github.com/auron-labs/oracle-docker) · Shell · updated 1mo ago. Recently updated Shell project.
