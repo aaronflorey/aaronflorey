@@ -57,7 +57,7 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated yesterday. Recently updated TypeScript project.
-- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated yesterday. Recently updated TypeScript project.
+- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 2d ago. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 3d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated 3d ago. Recently updated Rust project.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 5d ago. Recently updated Rust project.
@@ -68,20 +68,20 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 24 hrs 8 mins
+Last 7 days: 24 hrs 6 mins
 
-Other            14 hrs 32 mins     37.58%
-PHP              13 hrs 49 mins     35.72%
-Markdown         3 hrs 43 mins      9.62%
-Rust             1 hr 48 mins       4.66%
-YAML             1 hr 35 mins       4.12%
-TypeScript       1 hr 6 mins        2.87%
-TOML             31 mins            1.36%
-JSON             23 mins            1.02%
+Other            14 hrs 15 mins     37.16%
+PHP              13 hrs 49 mins     36.02%
+Markdown         3 hrs 43 mins      9.70%
+Rust             1 hr 46 mins       4.60%
+YAML             1 hr 35 mins       4.15%
+TypeScript       1 hr 6 mins        2.90%
+TOML             31 mins            1.37%
+JSON             23 mins            1.03%
 Text             23 mins            1.00%
-JavaScript       21 mins            0.93%
+JavaScript       21 mins            0.94%
 CSS              9 mins             0.40%
-Bash             7 mins             0.33%
+Bash             7 mins             0.34%
 Shell Script     4 mins             0.21%
 Log              1 min              0.06%
 shell script     1 min              0.06%
