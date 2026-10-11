@@ -58,7 +58,7 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 2d ago. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 2d ago. Recently updated TypeScript project.
-- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 2d ago. Recently updated TypeScript project.
+- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 3d ago. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 4d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 6d ago. Recently updated Rust project.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 1w ago. Windows game launcher with RomM integration
@@ -68,20 +68,20 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 24 hrs 6 mins
+Last 7 days: 24 hrs 9 mins
 
-Other            14 hrs 15 mins     37.16%
-PHP              13 hrs 49 mins     36.02%
-Markdown         3 hrs 43 mins      9.70%
-Rust             1 hr 46 mins       4.60%
-YAML             1 hr 35 mins       4.15%
-TypeScript       1 hr 6 mins        2.90%
-TOML             31 mins            1.37%
-JSON             23 mins            1.03%
-Text             23 mins            1.00%
-JavaScript       21 mins            0.94%
+Other            14 hrs             36.71%
+PHP              13 hrs 49 mins     36.21%
+Markdown         3 hrs 45 mins      9.85%
+Rust             1 hr 45 mins       4.62%
+YAML             1 hr 35 mins       4.17%
+TypeScript       1 hr 6 mins        2.91%
+TOML             31 mins            1.38%
+JSON             23 mins            1.04%
+Text             23 mins            1.01%
+JavaScript       21 mins            0.95%
 CSS              9 mins             0.40%
-Bash             7 mins             0.34%
+Bash             8 mins             0.36%
 Shell Script     4 mins             0.21%
 Log              1 min              0.06%
 shell script     1 min              0.06%
