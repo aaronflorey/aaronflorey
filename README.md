@@ -55,12 +55,12 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
-- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
+- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
+- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated today. Recently updated Rust project.
-- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 2d ago. Recently updated Go project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 3d ago. Recently updated TypeScript project.
-- 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 4d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
+- 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 5d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 1w ago. Windows game launcher with RomM integration
 - ✨ [oracle-docker](https://github.com/auron-labs/oracle-docker) · Shell · updated 2mo ago. Recently updated Shell project.
 
