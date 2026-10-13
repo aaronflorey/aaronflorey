@@ -44,7 +44,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated today. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 5d ago. Go CLI that updates project dependencies when you enter a repository.
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 5d ago. Homebrew tap for publishing and installing my CLI tools.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 6d ago. Homebrew tap for publishing and installing my CLI tools.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 2w ago. Run docker compose across directory trees
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3mo ago. Recently updated Lua project.
@@ -59,43 +59,42 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated yesterday. Recently updated Rust project.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated yesterday. Recently updated Rust project.
-- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 4d ago. Recently updated TypeScript project.
+- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 5d ago. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 6d ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
-- ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 1w ago. Windows game launcher with RomM integration
+- ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 2w ago. Windows game launcher with RomM integration
 - ✨ [oracle-docker](https://github.com/auron-labs/oracle-docker) · Shell · updated 2mo ago. Recently updated Shell project.
 
 ## Weekly coding stats
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 24 hrs 27 mins
+Last 7 days: 26 hrs 6 mins
 
-Other            13 hrs 40 mins     35.86%
-PHP              12 hrs 3 mins      31.61%
-Markdown         4 hrs 12 mins      11.03%
-YAML             3 hrs 10 mins      8.32%
-Rust             1 hr 45 mins       4.62%
-TypeScript       1 hr 7 mins        2.97%
-TOML             31 mins            1.39%
-Text             22 mins            1.00%
-JSON             17 mins            0.76%
-Bash             16 mins            0.72%
-Go               12 mins            0.55%
-CSS              9 mins             0.41%
-Shell Script     4 mins             0.21%
-Jinja2           4 mins             0.18%
-textmate         3 mins             0.17%
+Other            14 hrs 37 mins     35.90%
+PHP              8 hrs 22 mins      20.56%
+YAML             7 hrs 5 mins       17.42%
+Markdown         3 hrs 18 mins      8.10%
+Rust             2 hrs 34 mins      6.31%
+JSON             1 hr 16 mins       3.12%
+TypeScript       1 hr 2 mins        2.56%
+Python           45 mins            1.84%
+Text             36 mins            1.48%
+Bash             16 mins            0.67%
+Go               12 mins            0.51%
+CSS              9 mins             0.38%
+TOML             6 mins             0.27%
+Jinja2           5 mins             0.23%
+Shell Script     4 mins             0.20%
+JavaScript       4 mins             0.17%
+textmate         3 mins             0.16%
 shell script     2 mins             0.09%
-Log              1 min              0.05%
-Python           1 min              0.05%
 Docker           0 secs             0.01%
+Log              0 secs             0.00%
 SQL              0 secs             0.00%
-JavaScript       0 secs             0.00%
 GitIgnore file   0 secs             0.00%
 .env file        0 secs             0.00%
 XML              0 secs             0.00%
 jsonc            0 secs             0.00%
-TSConfig         0 secs             0.00%
 EditorConfig     0 secs             0.00%
 INI              0 secs             0.00%
 Vue              0 secs             0.00%
