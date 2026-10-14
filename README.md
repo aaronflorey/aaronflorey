@@ -59,7 +59,7 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated yesterday. Recently updated TypeScript project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated 2d ago. Recently updated Rust project.
-- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 5d ago. Recently updated TypeScript project.
+- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 6d ago. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 1w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 2w ago. Windows game launcher with RomM integration
 - ✨ [oracle-docker](https://github.com/auron-labs/oracle-docker) · Shell · updated 2mo ago. Recently updated Shell project.
@@ -68,35 +68,39 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 26 hrs 6 mins
+Last 7 days: 26 hrs 34 mins
 
-Other            14 hrs 37 mins     35.90%
-PHP              8 hrs 22 mins      20.56%
-YAML             7 hrs 5 mins       17.42%
-Markdown         3 hrs 18 mins      8.10%
-Rust             2 hrs 34 mins      6.31%
-JSON             1 hr 16 mins       3.12%
-TypeScript       1 hr 2 mins        2.56%
-Python           45 mins            1.84%
-Text             36 mins            1.48%
+Other            15 hrs 25 mins     36.72%
+YAML             8 hrs 53 mins      21.15%
+PHP              5 hrs 13 mins      12.42%
+Markdown         3 hrs 13 mins      7.68%
+Python           2 hrs 18 mins      5.48%
+Rust             2 hrs 7 mins       5.06%
+JSON             1 hr 34 mins       3.76%
+TypeScript       1 hr 8 mins        2.70%
+Text             33 mins            1.32%
+TOML             30 mins            1.21%
 Bash             16 mins            0.67%
-Go               12 mins            0.51%
-CSS              9 mins             0.38%
-TOML             6 mins             0.27%
+Go               12 mins            0.50%
+CSS              9 mins             0.37%
 Jinja2           5 mins             0.23%
-Shell Script     4 mins             0.20%
-JavaScript       4 mins             0.17%
+Shell Script     4 mins             0.19%
+JavaScript       4 mins             0.16%
 textmate         3 mins             0.16%
-shell script     2 mins             0.09%
-Docker           0 secs             0.01%
+shell script     2 mins             0.11%
+Terraform        0 secs             0.03%
+terraform        0 secs             0.02%
+Config           0 secs             0.02%
+SQL              0 secs             0.01%
+Docker           0 secs             0.00%
+Vue              0 secs             0.00%
 Log              0 secs             0.00%
-SQL              0 secs             0.00%
+git ignore       0 secs             0.00%
 GitIgnore file   0 secs             0.00%
 .env file        0 secs             0.00%
 XML              0 secs             0.00%
 jsonc            0 secs             0.00%
 EditorConfig     0 secs             0.00%
 INI              0 secs             0.00%
-Vue              0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
