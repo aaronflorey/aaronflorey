@@ -68,37 +68,40 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 25 hrs
+Last 7 days: 26 hrs 1 min
 
-Other            14 hrs 53 mins     37.32%
-YAML             10 hrs 19 mins     25.86%
-Markdown         3 hrs 57 mins      9.94%
-Python           2 hrs 34 mins      6.45%
-PHP              2 hrs 17 mins      5.74%
-JSON             1 hr 52 mins       4.71%
-TypeScript       1 hr 29 mins       3.74%
-TOML             31 mins            1.30%
-Jinja2           29 mins            1.22%
-Text             28 mins            1.17%
-Bash             17 mins            0.74%
-Go               12 mins            0.53%
-CSS              9 mins             0.39%
-Shell Script     4 mins             0.20%
-JavaScript       4 mins             0.17%
-textmate         3 mins             0.16%
-shell script     2 mins             0.12%
-Config           2 mins             0.10%
-Rust             1 min              0.05%
+Other            16 hrs 15 mins     38.46%
+YAML             9 hrs 30 mins      22.50%
+Markdown         4 hrs 17 mins      10.16%
+Python           2 hrs 34 mins      6.09%
+TypeScript       2 hrs 27 mins      5.80%
+PHP              2 hrs 22 mins      5.64%
+JSON             2 hrs 13 mins      5.25%
+TOML             34 mins            1.37%
+Jinja2           29 mins            1.15%
+Bash             19 mins            0.77%
+Text             16 mins            0.64%
+Go               12 mins            0.50%
+Docker           6 mins             0.24%
+TSConfig         5 mins             0.22%
+jsonc            5 mins             0.21%
+JavaScript       4 mins             0.19%
+.env file        4 mins             0.17%
+textmate         3 mins             0.15%
+shell script     2 mins             0.09%
+Config           2 mins             0.09%
+Assembly         2 mins             0.08%
+BlitzBasic       1 min              0.06%
+git ignore       1 min              0.06%
+Rust             1 min              0.04%
 Terraform        0 secs             0.03%
 terraform        0 secs             0.02%
 SQL              0 secs             0.01%
-Docker           0 secs             0.01%
 Vue              0 secs             0.00%
-Log              0 secs             0.00%
-git ignore       0 secs             0.00%
-jsonc            0 secs             0.00%
 log              0 secs             0.00%
 env              0 secs             0.00%
+Git Config       0 secs             0.00%
+Shell Script     0 secs             0.00%
 INI              0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
