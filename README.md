@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-37-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-46-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-45-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -68,18 +68,18 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 25 hrs 42 mins
+Last 7 days: 25 hrs 41 mins
 
-Other            16 hrs 36 mins     39.24%
-YAML             9 hrs 12 mins      21.74%
-Markdown         4 hrs 18 mins      10.16%
-Python           2 hrs 34 mins      6.08%
-TypeScript       2 hrs 27 mins      5.79%
-PHP              2 hrs 22 mins      5.63%
-JSON             2 hrs 13 mins      5.25%
+Other            16 hrs 29 mins     39.11%
+YAML             9 hrs 12 mins      21.81%
+Markdown         4 hrs 17 mins      10.16%
+Python           2 hrs 34 mins      6.10%
+TypeScript       2 hrs 27 mins      5.81%
+PHP              2 hrs 22 mins      5.65%
+JSON             2 hrs 13 mins      5.26%
 TOML             34 mins            1.37%
 Jinja2           29 mins            1.15%
-Bash             19 mins            0.78%
+Bash             19 mins            0.76%
 Text             16 mins            0.64%
 Go               12 mins            0.50%
 Docker           6 mins             0.24%
