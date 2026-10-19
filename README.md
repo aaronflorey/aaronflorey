@@ -55,9 +55,9 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
+- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated today. Recently updated Rust project.
-- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated yesterday. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 6d ago. Recently updated TypeScript project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 1w ago. Recently updated TypeScript project.
@@ -68,40 +68,38 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 25 hrs 41 mins
+Last 7 days: 25 hrs 36 mins
 
-Other            16 hrs 29 mins     39.11%
-YAML             9 hrs 12 mins      21.81%
-Markdown         4 hrs 17 mins      10.16%
-Python           2 hrs 34 mins      6.10%
-TypeScript       2 hrs 27 mins      5.81%
-PHP              2 hrs 22 mins      5.65%
-JSON             2 hrs 13 mins      5.26%
-TOML             34 mins            1.37%
-Jinja2           29 mins            1.15%
-Bash             19 mins            0.76%
+Other            16 hrs 3 mins      38.54%
+YAML             7 hrs 47 mins      18.68%
+Markdown         5 hrs 2 mins       12.10%
+PHP              3 hrs 38 mins      8.75%
+Python           2 hrs 33 mins      6.13%
+JSON             2 hrs 12 mins      5.29%
+TypeScript       2 hrs 2 mins       4.91%
+TOML             37 mins            1.51%
+Jinja2           25 mins            1.01%
 Text             16 mins            0.64%
-Go               12 mins            0.50%
-Docker           6 mins             0.24%
-TSConfig         5 mins             0.22%
+Bash             11 mins            0.44%
+Docker           6 mins             0.25%
+TSConfig         5 mins             0.23%
+Go               5 mins             0.22%
 jsonc            5 mins             0.21%
+log              4 mins             0.19%
 JavaScript       4 mins             0.18%
 .env file        4 mins             0.17%
-textmate         3 mins             0.15%
-shell script     2 mins             0.09%
 Config           2 mins             0.09%
-Assembly         2 mins             0.08%
+Assembly         2 mins             0.09%
+json             2 mins             0.08%
 BlitzBasic       1 min              0.06%
 git ignore       1 min              0.06%
+shell script     1 min              0.06%
 Rust             1 min              0.04%
 Terraform        0 secs             0.03%
 terraform        0 secs             0.02%
 SQL              0 secs             0.01%
 Vue              0 secs             0.00%
-log              0 secs             0.00%
 env              0 secs             0.00%
 Git Config       0 secs             0.00%
-Shell Script     0 secs             0.00%
-INI              0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
