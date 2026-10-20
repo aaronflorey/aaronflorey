@@ -48,7 +48,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 1w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3mo ago. Recently updated Lua project.
-- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 3mo ago. PHP package that parses serialized strings into structured typed objects.
+- 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 4mo ago. PHP package that parses serialized strings into structured typed objects.
 - 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
 ## Auron Labs projects
@@ -57,9 +57,9 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated today. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated yesterday. Recently updated Rust project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated yesterday. Recently updated Go project.
-- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 6d ago. Recently updated TypeScript project.
+- 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 1w ago. Recently updated TypeScript project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 1w ago. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 1w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 2w ago. Windows game launcher with RomM integration
