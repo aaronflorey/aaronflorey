@@ -55,14 +55,14 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
-- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
+- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated yesterday. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated yesterday. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 2d ago. Recently updated Rust project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated 2d ago. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 1w ago. Recently updated TypeScript project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 1w ago. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 1w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
-- ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 2w ago. Windows game launcher with RomM integration
+- ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 3w ago. Windows game launcher with RomM integration
 
 ## Weekly coding stats
 
