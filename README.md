@@ -60,7 +60,7 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 3d ago. Recently updated Rust project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated 4d ago. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 1w ago. Recently updated TypeScript project.
-- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 1w ago. Recently updated TypeScript project.
+- 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 2w ago. Recently updated TypeScript project.
 - 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 2w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 - ⚡ [wingosy-launcher](https://github.com/auron-labs/wingosy-launcher) · JavaScript · updated 3w ago. Windows game launcher with RomM integration
 
@@ -68,44 +68,42 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 25 hrs 45 mins
+Last 7 days: 21 hrs 26 mins
 
-Other            16 hrs 8 mins      38.52%
-Markdown         6 hrs 29 mins      15.51%
-PHP              5 hrs 29 mins      13.12%
-YAML             2 hrs 47 mins      6.66%
-JavaScript       2 hrs 15 mins      5.39%
-TypeScript       1 hr 50 mins       4.40%
-Terraform        1 hr 33 mins       3.70%
-JSON             1 hr 16 mins       3.06%
-Go               1 hr 9 mins        2.78%
-Python           34 mins            1.39%
-TOML             31 mins            1.26%
-Jinja2           23 mins            0.93%
-Bash             19 mins            0.76%
-Docker           11 mins            0.47%
-Text             9 mins             0.38%
-TSConfig         5 mins             0.23%
-jsonc            5 mins             0.21%
-.env file        5 mins             0.20%
-log              4 mins             0.19%
-Makefile         2 mins             0.09%
-Assembly         2 mins             0.09%
-json             2 mins             0.08%
-SQL              1 min              0.08%
-Config           1 min              0.08%
-CSV              1 min              0.07%
-BlitzBasic       1 min              0.06%
-git ignore       1 min              0.06%
-HTML             1 min              0.05%
-Rust             1 min              0.04%
-shell script     0 secs             0.04%
+Other            15 hrs 22 mins     41.76%
+PHP              5 hrs 12 mins      14.15%
+Markdown         4 hrs 48 mins      13.06%
+JavaScript       3 hrs 10 mins      8.61%
+Terraform        1 hr 33 mins       4.21%
+TypeScript       1 hr 28 mins       4.01%
+Go               1 hr 9 mins        3.17%
+YAML             1 hr 9 mins        3.15%
+JSON             58 mins            2.64%
+TOML             30 mins            1.39%
+Bash             18 mins            0.83%
+Docker           11 mins            0.54%
+Text             9 mins             0.43%
+Python           6 mins             0.30%
+TSConfig         5 mins             0.26%
+jsonc            5 mins             0.24%
+.env file        5 mins             0.23%
+log              4 mins             0.21%
+Makefile         2 mins             0.10%
+Assembly         2 mins             0.10%
+json             2 mins             0.09%
+SQL              1 min              0.09%
+CSV              1 min              0.08%
+BlitzBasic       1 min              0.07%
+git ignore       1 min              0.07%
+HTML             1 min              0.06%
 Git Config       0 secs             0.04%
 CSS              0 secs             0.03%
-Shell Script     0 secs             0.02%
+shell script     0 secs             0.03%
+Shell Script     0 secs             0.03%
 GitIgnore file   0 secs             0.00%
-env              0 secs             0.00%
 HCL              0 secs             0.00%
+env              0 secs             0.00%
+Jinja2           0 secs             0.00%
 XML              0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
