@@ -49,15 +49,15 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3mo ago. Recently updated Lua project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 4mo ago. PHP package that parses serialized strings into structured typed objects.
-- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 4mo ago. Reusable skill packs for Codex and Claude Code workflows.
+- 🤖 [agent-skills](https://github.com/aaronflorey/agent-skills) · TypeScript · updated 5mo ago. Reusable skill packs for Codex and Claude Code workflows.
 
 ## Auron Labs projects
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
-- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 2d ago. Recently updated Go project.
+- 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 3d ago. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated 3d ago. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 3d ago. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 4d ago. Recently updated Rust project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated 4d ago. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 1w ago. Recently updated TypeScript project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 2w ago. Recently updated TypeScript project.
