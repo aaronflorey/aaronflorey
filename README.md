@@ -68,31 +68,31 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 20 hrs 8 mins
+Last 7 days: 21 hrs 14 mins
 
-Other            15 hrs 27 mins     43.42%
-Markdown         4 hrs 8 mins       11.63%
-JavaScript       4 hrs 7 mins       11.60%
-PHP              4 hrs 4 mins       11.45%
-Terraform        1 hr 33 mins       4.36%
-Go               1 hr 10 mins       3.32%
-JSON             55 mins            2.61%
-YAML             50 mins            2.38%
-Bash             42 mins            1.99%
-TypeScript       39 mins            1.86%
-Jinja2           29 mins            1.37%
-TOML             23 mins            1.09%
-shell script     15 mins            0.73%
-Text             9 mins             0.45%
-Python           7 mins             0.35%
-Docker           6 mins             0.29%
+Other            16 hrs 2 mins      43.03%
+Markdown         5 hrs 2 mins       13.52%
+JavaScript       4 hrs 7 mins       11.08%
+PHP              4 hrs 4 mins       10.93%
+Terraform        1 hr 33 mins       4.16%
+Go               1 hr 14 mins       3.33%
+JSON             55 mins            2.49%
+YAML             54 mins            2.42%
+Bash             42 mins            1.89%
+TypeScript       39 mins            1.78%
+Jinja2           29 mins            1.31%
+TOML             25 mins            1.13%
+shell script     15 mins            0.70%
+Text             9 mins             0.43%
+Python           7 mins             0.34%
+Docker           6 mins             0.28%
+Makefile         5 mins             0.25%
 log              4 mins             0.21%
-HTML             3 mins             0.16%
-Makefile         2 mins             0.10%
-json             2 mins             0.10%
+HTML             3 mins             0.15%
+json             2 mins             0.09%
 SQL              1 min              0.09%
-CSV              1 min              0.08%
-terraform        1 min              0.08%
+CSV              1 min              0.07%
+terraform        1 min              0.07%
 env              1 min              0.06%
 Git Config       0 secs             0.04%
 .env file        0 secs             0.04%
@@ -105,6 +105,7 @@ Groff            0 secs             0.01%
 TSConfig         0 secs             0.01%
 GitIgnore file   0 secs             0.00%
 HCL              0 secs             0.00%
+go mod           0 secs             0.00%
 Config           0 secs             0.00%
 XML              0 secs             0.00%
 ```
