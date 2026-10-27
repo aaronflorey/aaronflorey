@@ -68,44 +68,39 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 21 hrs 1 min
+Last 7 days: 18 hrs 54 mins
 
-Other            16 hrs 1 min       43.25%
-JavaScript       4 hrs 7 mins       11.15%
-Markdown         3 hrs 40 mins      9.90%
-YAML             3 hrs 5 mins       8.34%
-PHP              2 hrs 34 mins      6.96%
-Terraform        1 hr 40 mins       4.53%
-Go               1 hr 9 mins        3.11%
-JSON             55 mins            2.52%
-Bash             42 mins            1.92%
-Text             31 mins            1.41%
-Python           30 mins            1.38%
-Jinja2           29 mins            1.33%
-TypeScript       27 mins            1.25%
-TOML             20 mins            0.92%
-shell script     15 mins            0.71%
-Docker           6 mins             0.28%
-Makefile         5 mins             0.25%
-terraform        3 mins             0.17%
-HTML             3 mins             0.16%
-SQL              1 min              0.09%
-CSV              1 min              0.07%
+Other            18 hrs 37 mins     49.62%
+YAML             4 hrs 5 mins       10.89%
+JavaScript       4 hrs 4 mins       10.87%
+Markdown         2 hrs 57 mins      7.88%
+Terraform        1 hr 50 mins       4.91%
+Go               1 hr 8 mins        3.04%
+JSON             50 mins            2.22%
+Text             48 mins            2.17%
+Bash             41 mins            1.86%
+Jinja2           29 mins            1.32%
+TypeScript       26 mins            1.17%
+Python           24 mins            1.07%
+shell script     15 mins            0.70%
+PHP              14 mins            0.64%
+terraform        9 mins             0.44%
+TOML             9 mins             0.42%
+Docker           5 mins             0.23%
+HTML             3 mins             0.15%
+Makefile         3 mins             0.15%
 env              1 min              0.06%
 Git Config       0 secs             0.04%
-.env file        0 secs             0.04%
 CSS              0 secs             0.03%
 log              0 secs             0.03%
 Shell Script     0 secs             0.03%
 jsonc            0 secs             0.02%
-git ignore       0 secs             0.02%
+git ignore       0 secs             0.01%
 Image (png)      0 secs             0.01%
 Groff            0 secs             0.01%
 TSConfig         0 secs             0.00%
-GitIgnore file   0 secs             0.00%
 HCL              0 secs             0.00%
 go mod           0 secs             0.00%
 Config           0 secs             0.00%
-XML              0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
