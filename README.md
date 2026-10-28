@@ -55,8 +55,8 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
-- 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated yesterday. Recently updated Rust project.
+- 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated yesterday. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 2d ago. Recently updated Rust project.
 - 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated 3d ago. Recently updated Go project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated 1w ago. Recently updated Go project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated 1w ago. Recently updated Go project.
