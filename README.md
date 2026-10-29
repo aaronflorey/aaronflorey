@@ -45,7 +45,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated 1w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
 - 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
-- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 2w ago. Go CLI that updates project dependencies when you enter a repository.
+- 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3mo ago. Recently updated Lua project.
 - 📦 [serialization-parser](https://github.com/aaronflorey/serialization-parser) · PHP · updated 4mo ago. PHP package that parses serialized strings into structured typed objects.
@@ -56,13 +56,13 @@ Pragmatic software engineer building maintainable products, developer tools, and
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
 - 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated today. Recently updated Go project.
+- 🐹 [mygo-mcp](https://github.com/auron-labs/mygo-mcp) · Go · updated today. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated today. Recently updated TypeScript project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated 2d ago. Recently updated Rust project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 2d ago. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 3d ago. Recently updated Rust project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated 1w ago. Recently updated Go project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 2w ago. Recently updated TypeScript project.
-- 🛠️ [diskmon](https://github.com/auron-labs/diskmon) · Go · updated 3w ago. Disk health monitoring daemon and CLI with SMART data collection and an embedded web UI.
 
 ## Weekly coding stats
 
