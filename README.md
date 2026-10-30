@@ -6,7 +6,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
 ![Public repos](https://img.shields.io/badge/Public%20Repos-32-111827?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-45-2563eb?style=flat-square&logo=github)
+![Followers](https://img.shields.io/badge/Followers-46-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
 [![Go badge](https://img.shields.io/badge/Go-CLI_tooling-00ADD8?style=flat-square&logo=go)](https://go.dev)
@@ -58,9 +58,9 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated today. Recently updated Go project.
 - 🐹 [mygo-mcp](https://github.com/auron-labs/mygo-mcp) · Go · updated today. Recently updated Go project.
-- 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated today. Recently updated Go project.
+- 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated yesterday. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated yesterday. Recently updated TypeScript project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 3d ago. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 4d ago. Recently updated Rust project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated 1w ago. Recently updated Go project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 3w ago. Recently updated TypeScript project.
 
