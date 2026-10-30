@@ -55,7 +55,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 Public projects from [@auron-labs](https://github.com/auron-labs).
 
-- 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated today. Recently updated Rust project.
+- 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated yesterday. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
 - 🐹 [mygo-mcp](https://github.com/auron-labs/mygo-mcp) · Go · updated yesterday. Recently updated Go project.
 - 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated yesterday. Recently updated Go project.
@@ -68,41 +68,36 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 23 hrs 20 mins
+Last 7 days: 20 hrs 18 mins
 
-Other            19 hrs 37 mins     45.68%
-YAML             5 hrs 59 mins      13.93%
-Markdown         3 hrs 48 mins      8.86%
-TypeScript       3 hrs 18 mins      7.71%
-Go               2 hrs 33 mins      5.94%
-Rust             2 hrs 26 mins      5.68%
-JavaScript       59 mins            2.31%
-Text             44 mins            1.73%
-Bash             34 mins            1.33%
-Jinja2           31 mins            1.24%
-TOML             26 mins            1.01%
-Python           24 mins            0.94%
-JSON             21 mins            0.82%
-terraform        20 mins            0.78%
-Terraform        17 mins            0.68%
-shell script     15 mins            0.61%
-PHP              4 mins             0.18%
-Vue              4 mins             0.17%
-Makefile         3 mins             0.13%
-HTML             2 mins             0.08%
-env              1 min              0.05%
-Pickle           0 secs             0.03%
+Other            16 hrs 44 mins     45.18%
+YAML             6 hrs 28 mins      17.49%
+Markdown         3 hrs 18 mins      8.91%
+TypeScript       3 hrs 2 mins       8.21%
+Go               2 hrs 32 mins      6.84%
+Rust             2 hrs 26 mins      6.58%
+Text             44 mins            2.01%
+TOML             26 mins            1.17%
+Python           23 mins            1.05%
+terraform        18 mins            0.83%
+Terraform        17 mins            0.79%
+JSON             5 mins             0.25%
+Vue              4 mins             0.20%
+Makefile         3 mins             0.15%
+Jinja2           2 mins             0.12%
+PHP              1 min              0.06%
+JavaScript       1 min              0.05%
+Pickle           0 secs             0.04%
 log              0 secs             0.03%
-Docker           0 secs             0.02%
-jsonc            0 secs             0.02%
-git ignore       0 secs             0.02%
-Image (png)      0 secs             0.01%
-Groff            0 secs             0.01%
+Bash             0 secs             0.03%
 CSS              0 secs             0.01%
-TSConfig         0 secs             0.00%
+Docker           0 secs             0.01%
+jsonc            0 secs             0.00%
+shell script     0 secs             0.00%
+git ignore       0 secs             0.00%
 go mod           0 secs             0.00%
-Config           0 secs             0.00%
-HCL              0 secs             0.00%
+env              0 secs             0.00%
+Groff            0 secs             0.00%
 Diff             0 secs             0.00%
 ```
 <!--END_SECTION:waka-->
