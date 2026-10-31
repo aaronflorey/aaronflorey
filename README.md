@@ -58,9 +58,9 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated yesterday. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
 - 🐹 [mygo-mcp](https://github.com/auron-labs/mygo-mcp) · Go · updated yesterday. Recently updated Go project.
-- 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated yesterday. Recently updated Go project.
+- 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated 2d ago. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 2d ago. Recently updated TypeScript project.
-- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 4d ago. Recently updated Rust project.
+- 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 5d ago. Recently updated Rust project.
 - 🐹 [imgopter](https://github.com/auron-labs/imgopter) · Go · updated 1w ago. Recently updated Go project.
 - 🔷 [action-cap](https://github.com/auron-labs/action-cap) · TypeScript · updated 3w ago. Recently updated TypeScript project.
 
