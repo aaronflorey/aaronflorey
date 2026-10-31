@@ -5,7 +5,7 @@
 Pragmatic software engineer building maintainable products, developer tools, and automation.
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaronflorey&label=Profile%20views&color=3b82f6&style=flat-square)
-![Public repos](https://img.shields.io/badge/Public%20Repos-33-111827?style=flat-square&logo=github)
+![Public repos](https://img.shields.io/badge/Public%20Repos-34-111827?style=flat-square&logo=github)
 ![Followers](https://img.shields.io/badge/Followers-46-2563eb?style=flat-square&logo=github)
 
 [![PHP badge](https://img.shields.io/badge/PHP-Laravel--first-777BB4?style=flat-square&logo=php)](https://laravel.com)
@@ -44,7 +44,7 @@ Pragmatic software engineer building maintainable products, developer tools, and
 
 - 🛠️ [genignore](https://github.com/aaronflorey/genignore) · Rust · updated 1w ago. CLI that generates and maintains the managed section of a repository's .gitignore.
 - 🐹 [mdc](https://github.com/aaronflorey/mdc) · Go · updated 1w ago. Run docker compose across directory trees
-- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 1w ago. Homebrew tap for publishing and installing my CLI tools.
+- 🍺 [homebrew-tap](https://github.com/aaronflorey/homebrew-tap) · Ruby · updated 2w ago. Homebrew tap for publishing and installing my CLI tools.
 - 🛠️ [pupdate](https://github.com/aaronflorey/pupdate) · Go · updated 3w ago. Go CLI that updates project dependencies when you enter a repository.
 - 🐹 [docker-dns-sync](https://github.com/aaronflorey/docker-dns-sync) · Go · updated 2mo ago. Recently updated Go project.
 - ✨ [micro-plugins](https://github.com/aaronflorey/micro-plugins) · Lua · updated 3mo ago. Recently updated Lua project.
@@ -57,7 +57,7 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 - 🦀 [romm-fs](https://github.com/auron-labs/romm-fs) · Rust · updated yesterday. Recently updated Rust project.
 - 🐹 [harness-detect](https://github.com/auron-labs/harness-detect) · Go · updated yesterday. Recently updated Go project.
-- 🐹 [mygo-mcp](https://github.com/auron-labs/mygo-mcp) · Go · updated yesterday. Recently updated Go project.
+- 🐹 [mygo-mcp](https://github.com/auron-labs/mygo-mcp) · Go · updated 2d ago. Recently updated Go project.
 - 🐹 [mygo-framework](https://github.com/auron-labs/mygo-framework) · Go · updated 2d ago. Recently updated Go project.
 - 🔷 [opencode-plugins](https://github.com/auron-labs/opencode-plugins) · TypeScript · updated 2d ago. Recently updated TypeScript project.
 - 🦀 [hidmaestro-rs](https://github.com/auron-labs/hidmaestro-rs) · Rust · updated 5d ago. Recently updated Rust project.
