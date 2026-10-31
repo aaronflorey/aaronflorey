@@ -68,25 +68,24 @@ Public projects from [@auron-labs](https://github.com/auron-labs).
 
 <!--START_SECTION:waka-->
 ```text
-Last 7 days: 20 hrs 18 mins
+Last 7 days: 21 hrs 34 mins
 
-Other            16 hrs 44 mins     45.18%
-YAML             6 hrs 28 mins      17.49%
-Markdown         3 hrs 18 mins      8.91%
-TypeScript       3 hrs 2 mins       8.21%
-Go               2 hrs 32 mins      6.84%
-Rust             2 hrs 26 mins      6.58%
-Text             44 mins            2.01%
-TOML             26 mins            1.17%
-Python           23 mins            1.05%
-terraform        18 mins            0.83%
-Terraform        17 mins            0.79%
-JSON             5 mins             0.25%
-Vue              4 mins             0.20%
-Makefile         3 mins             0.15%
+Other            16 hrs 51 mins     43.86%
+YAML             8 hrs 1 min        20.86%
+TypeScript       3 hrs 2 mins       7.92%
+Markdown         2 hrs 40 mins      6.95%
+Go               2 hrs 28 mins      6.44%
+Rust             2 hrs 26 mins      6.35%
+Text             1 hr 14 mins       3.24%
+TOML             24 mins            1.05%
+Python           23 mins            1.01%
+terraform        18 mins            0.80%
+Terraform        17 mins            0.76%
+JSON             5 mins             0.24%
+Vue              4 mins             0.19%
 Jinja2           2 mins             0.12%
 PHP              1 min              0.06%
-JavaScript       1 min              0.05%
+JavaScript       1 min              0.04%
 Pickle           0 secs             0.04%
 log              0 secs             0.03%
 Bash             0 secs             0.03%
@@ -95,7 +94,6 @@ Docker           0 secs             0.01%
 jsonc            0 secs             0.00%
 shell script     0 secs             0.00%
 git ignore       0 secs             0.00%
-go mod           0 secs             0.00%
 env              0 secs             0.00%
 Groff            0 secs             0.00%
 Diff             0 secs             0.00%
